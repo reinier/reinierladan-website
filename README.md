@@ -1,4 +1,4 @@
-This is the source code for the website [reinierladan.nl](reinierladan.nl)
+This is the source code for the website [reinierladan.nl](http://reinierladan.nl)
 
 # Development instructions
 
