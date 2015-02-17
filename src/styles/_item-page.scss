@@ -1,0 +1,15 @@
+.item-page {
+  h2 {
+    margin-bottom: 2em;
+  }
+
+  @include desktop {
+    font-size: 1.3em;
+  }
+
+  ul {
+    li {
+      margin-bottom: 0.5em;
+    }
+  }
+}

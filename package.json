@@ -1,0 +1,13 @@
+{
+  "name": "reinierladan",
+  "version": "0.2.0",
+  "devDependencies": {
+    "gulp": "~3.5.5",
+    "gulp-connect": "~1.0.7",
+    "gulp-gh-pages": "~0.4.0",
+    "gulp-ruby-sass": "~0.4.0",
+    "gulp-swig": "~0.4.0",
+    "node-bourbon": "~1.0.0",
+    "swig-marked": "0.0.1"
+  }
+}

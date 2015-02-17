@@ -1,0 +1,65 @@
+.infocard-wrap{
+  h1 {
+    letter-spacing: 0.05em;
+    color: #ffc;
+
+    @include desktop {
+      font-size: 3em;
+      margin-bottom: 0.1em;
+    }
+  }
+
+  h2 {
+    @include desktop {
+      letter-spacing: 0.03em;
+      margin-bottom: 1.5em;
+    }
+  }
+}
+
+
+h2 span {
+  white-space: nowrap;
+}
+
+.infocard {
+
+  @include desktop {
+    position: relative;
+    padding-left: 190px;
+    padding-top: 5em;
+    padding-bottom: 4em;
+    font-size: 0.8em;
+  }
+
+  @include bigass {
+    padding-left: 220px;
+  }
+}
+
+.infocard picture {
+  display: block;
+  text-align: center;
+  padding: 2em 0 0 0;
+
+  @include desktop {
+    display: block;
+    text-align: center;
+    padding: 0;
+    position: absolute;
+    left: 10px;
+    top: 73px;
+  }
+
+  @include bigass {
+    top: 123px;
+  }
+}
+
+.telephone {
+  white-space: nowrap;
+}
+
+.intro {
+  font-size: 1.1em;
+}
