@@ -12,7 +12,7 @@ This is the source code for the website [reinierladan.nl](http://reinierladan.nl
 
 ## Run when developing:
 - `gulp`
-- Local test server is now available at [localhost:3000](http://localhost:3000)
+- Local test server is now available at [localhost:8080](http://localhost:8080)
 
 ## Run to deploy to gh-pages branch:
 - `gulp build`
