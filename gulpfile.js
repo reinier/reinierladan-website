@@ -18,8 +18,7 @@ var paths = {
 };
 
 var sassConfig = {
-  loadPath: paths.sassLibs,
-  sourcemap: "none"
+  loadPath: paths.sassLibs
 };
 
 var swigConfig  = {
@@ -55,10 +54,12 @@ gulp.task('watch', function() {
   gulp.watch(paths.html, ['templates']);
 });
 
-gulp.task('connect', connect.server({
-  root: ['public'],
-  livereload: true
-}));
+gulp.task('connect', function() {
+  connect.server({
+    root: 'public',
+    livereload: true
+  });
+});
 
 /* Deploy ./public dir to gh-pages branch */
 gulp.task('deploy', function () {
