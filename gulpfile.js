@@ -10,8 +10,6 @@ var deploy    = require('gulp-gh-pages');
 var imagemin  = require('gulp-imagemin');
 var pngquant  = require('imagemin-pngquant');
 
-var buildBranch = require('gulp-build-branch');
-
 /* ---------------------------------------
     CONFIG
    --------------------------------------- */
@@ -109,7 +107,7 @@ gulp.task('build', ['clean'], function () {
 
 /* Deploy ./public dir to gh-pages branch */
 gulp.task('deploy', ['init'], function () {
-  return gulp.src('./public/*')
+  return gulp.src('./public/**/*')
     .pipe(deploy());
 });
 
@@ -118,8 +116,10 @@ gulp.task('clean', function (cb) {
   del('public/**', cb);
 });
 
-gulp.task('dist', function() {
-  return buildBranch({ folder: 'public', branch: 'dist'});
+/* Deploy `./public` to `public` branch */
+gulp.task('public', function () {
+  return gulp.src('./public/**')
+    .pipe(deploy({ branch: 'public' }));
 });
 
 /* ---------------------------------------
