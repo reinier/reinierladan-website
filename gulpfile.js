@@ -108,7 +108,7 @@ gulp.task('build', ['clean'], function () {
 
 /* Deploy ./public dir to gh-pages branch */
 gulp.task('deploy', ['init'], function () {
-  return gulp.src('./public/**/*')
+  return gulp.src('./public/*')
     .pipe(deploy(deployConfig));
 });
 
