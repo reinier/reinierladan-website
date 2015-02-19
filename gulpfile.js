@@ -116,12 +116,6 @@ gulp.task('clean', function (cb) {
   del('public/**', cb);
 });
 
-/* Deploy `./public` to `public` branch */
-gulp.task('public', function () {
-  return gulp.src('./public/**/*')
-    .pipe(deploy({ branch: 'public' }));
-});
-
 /* ---------------------------------------
     DEFAULT & INIT
    --------------------------------------- */
