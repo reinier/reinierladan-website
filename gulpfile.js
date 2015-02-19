@@ -118,7 +118,7 @@ gulp.task('clean', function (cb) {
 
 /* Deploy `./public` to `public` branch */
 gulp.task('public', function () {
-  return gulp.src('./public/**')
+  return gulp.src('./public/**/*')
     .pipe(deploy({ branch: 'public' }));
 });
 
