@@ -5,6 +5,8 @@ var connect = require('gulp-connect');
 var swig    = require('gulp-swig');
 var marked  = require('swig-marked');
 var deploy = require('gulp-gh-pages');
+var imagemin = require('gulp-imagemin');
+var pngquant = require('imagemin-pngquant');
 
 var paths = {
   sass: 'src/**/*.scss',
@@ -37,8 +39,18 @@ gulp.task('styles', function() {
     .pipe(connect.reload());
 });
 
-gulp.task('assets', function() {
-  gulp.src(paths.assets)
+// gulp.task('assets', function() {
+//   gulp.src(paths.assets)
+//     .pipe(gulp.dest('./public/assets'));
+// });
+
+gulp.task('images', function () {
+  return gulp.src(paths.assets)
+    .pipe(imagemin({
+      progressive: true,
+      svgoPlugins: [{removeViewBox: false}],
+      use: [pngquant()]
+    }))
     .pipe(gulp.dest('./public/assets'));
 });
 
@@ -67,6 +79,6 @@ gulp.task('deploy', function () {
     .pipe(deploy());
 });
 
-gulp.task('init', ['assets','styles','templates']);
+gulp.task('init', ['images','styles','templates']);
 gulp.task('default', ['init','watch','connect']);
 gulp.task('build', ['init','deploy']);
