@@ -1,14 +1,14 @@
-var gulp    = require('gulp');
+var gulp      = require('gulp');
 
-var del = require('del');
+var del       = require('del');
 
-var sass    = require('gulp-ruby-sass');
-var connect = require('gulp-connect');
-var swig    = require('gulp-swig');
-var marked  = require('swig-marked');
-var deploy = require('gulp-gh-pages');
-var imagemin = require('gulp-imagemin');
-var pngquant = require('imagemin-pngquant');
+var sass      = require('gulp-ruby-sass');
+var connect   = require('gulp-connect');
+var swig      = require('gulp-swig');
+var marked    = require('swig-marked');
+var deploy    = require('gulp-gh-pages');
+var imagemin  = require('gulp-imagemin');
+var pngquant  = require('imagemin-pngquant');
 
 
 /* ---------------------------------------
@@ -29,6 +29,10 @@ var paths = {
 
 var sassConfig = {
   loadPath: paths.sassLibs
+};
+
+var deployConfig = {
+  branch: 'build'
 };
 
 var swigConfig  = {
@@ -105,7 +109,7 @@ gulp.task('build', ['clean'], function () {
 /* Deploy ./public dir to gh-pages branch */
 gulp.task('deploy', ['init'], function () {
   return gulp.src('./public/**/*')
-    .pipe(deploy());
+    .pipe(deploy(deployConfig));
 });
 
 /* Clean the public directory */
