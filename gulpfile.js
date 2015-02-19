@@ -1,5 +1,7 @@
 var gulp    = require('gulp');
 
+var del = require('del');
+
 var sass    = require('gulp-ruby-sass');
 var connect = require('gulp-connect');
 var swig    = require('gulp-swig');
@@ -7,6 +9,11 @@ var marked  = require('swig-marked');
 var deploy = require('gulp-gh-pages');
 var imagemin = require('gulp-imagemin');
 var pngquant = require('imagemin-pngquant');
+
+
+/* ---------------------------------------
+    CONFIG
+   --------------------------------------- */
 
 var paths = {
   sass: 'src/**/*.scss',
@@ -31,6 +38,10 @@ var swigConfig  = {
   defaults: { cache: false }
 };
 
+
+/* ---------------------------------------
+    PROCESS FILES
+   --------------------------------------- */
 
 gulp.task('styles', function() {
   gulp.src(paths.sass)
@@ -62,6 +73,11 @@ gulp.task('templates', function() {
     .pipe(connect.reload());
 });
 
+
+/* ---------------------------------------
+    WATCH & CONNECT
+   --------------------------------------- */
+
 gulp.task('watch', function() {
   gulp.watch(paths.sass, ['styles']);
   gulp.watch(paths.html, ['templates']);
@@ -75,17 +91,32 @@ gulp.task('connect', function() {
   });
 });
 
+
+/* ---------------------------------------
+    BUILD & CLEAN
+   --------------------------------------- */
+
+/* Run 'clean' and after that 'deploy' */
+gulp.task('build', ['clean'], function () {
+  // gulp.run() is depricated. Figure out another way to do this.
+  gulp.run('deploy');
+});
+
 /* Deploy ./public dir to gh-pages branch */
-gulp.task('deploy', function () {
+gulp.task('deploy', ['init'], function () {
   return gulp.src('./public/**/*')
     .pipe(deploy());
 });
 
-/* Before deploy: clean the public directory */
-gulp.task('clean:public', function (cb) {
+/* Clean the public directory */
+gulp.task('clean', function (cb) {
   del('public/**', cb);
 });
 
-gulp.task('init', ['clean:public','images','javascript','styles','templates']);
+
+/* ---------------------------------------
+    DEFAULT & INIT
+   --------------------------------------- */
+
+gulp.task('init', ['images','javascript','styles','templates']);
 gulp.task('default', ['init','watch','connect']);
-gulp.task('build', ['init','deploy']);
