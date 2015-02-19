@@ -15,6 +15,7 @@ var paths = {
     'src/styles/'
   ],
   assets: 'src/assets/**/*',
+  javascript: 'src/js/**/*',
   html: 'src/**/*.html',
   content: ['src/**/*.html','!./src/layouts/*',,'!./src/chunks/*']
 };
@@ -39,10 +40,10 @@ gulp.task('styles', function() {
     .pipe(connect.reload());
 });
 
-// gulp.task('assets', function() {
-//   gulp.src(paths.assets)
-//     .pipe(gulp.dest('./public/assets'));
-// });
+gulp.task('javascript', function() {
+  gulp.src(paths.javascript)
+    .pipe(gulp.dest('./public/js'));
+});
 
 gulp.task('images', function () {
   return gulp.src(paths.assets)
@@ -64,6 +65,7 @@ gulp.task('templates', function() {
 gulp.task('watch', function() {
   gulp.watch(paths.sass, ['styles']);
   gulp.watch(paths.html, ['templates']);
+  gulp.watch(paths.javascript, ['javascript']);
 });
 
 gulp.task('connect', function() {
@@ -79,6 +81,11 @@ gulp.task('deploy', function () {
     .pipe(deploy());
 });
 
-gulp.task('init', ['images','styles','templates']);
+/* Before deploy: clean the public directory */
+gulp.task('clean:public', function (cb) {
+  del('public/**', cb);
+});
+
+gulp.task('init', ['clean:public','images','javascript','styles','templates']);
 gulp.task('default', ['init','watch','connect']);
 gulp.task('build', ['init','deploy']);
