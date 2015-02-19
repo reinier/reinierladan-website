@@ -10,6 +10,7 @@ var deploy    = require('gulp-gh-pages');
 var imagemin  = require('gulp-imagemin');
 var pngquant  = require('imagemin-pngquant');
 
+var buildBranch = require('gulp-build-branch');
 
 /* ---------------------------------------
     CONFIG
@@ -117,6 +118,9 @@ gulp.task('clean', function (cb) {
   del('public/**', cb);
 });
 
+gulp.task('dist', function() {
+  return buildBranch({ folder: 'public', branch: 'dist'});
+});
 
 /* ---------------------------------------
     DEFAULT & INIT
