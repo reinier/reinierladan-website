@@ -33,6 +33,11 @@
     li {
       margin-bottom: 0.3em;
 
+      &.first-business-item,
+      &.socials {
+        margin-top: 1.5em;
+      }
+
       @include desktop {
         margin-bottom: 0.5em;
       }
