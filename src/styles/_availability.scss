@@ -1,5 +1,9 @@
 .availability {
-  padding: 4em 2em;
+  padding: 5em 2.5em;
+
+  @include desktop {
+    padding: 8em 8em;
+  }
 
   h3 {
     text-align: center;
