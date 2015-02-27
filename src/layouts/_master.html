@@ -9,7 +9,8 @@
   <link rel="stylesheet" href="styles/reinierladan.css">
 
   <!-- for vimeo iframe -->
-  <script src="js/lazyload.js"></script>
+  <script src="js/lazyload.js" async></script>
+  <script src="js/loadCSS.js" defer></script>
 
 </head>
 
@@ -19,7 +20,10 @@
     <p>Deze pagina is leeg.</p>
   {% endblock %}
 
-  <script src="js/ga.js"></script>
+  <script src="js/ga.js" async></script>
 
+  <script defer type="text/javascript">
+    loadCSS("http://fonts.googleapis.com/css?family=Raleway:300,700,900", "all");
+  </script>
 </body>
 </html>
