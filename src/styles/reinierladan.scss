@@ -20,3 +20,15 @@
 @import "projects";
 @import "item-page";
 @import "spreker";
+
+.change-lang {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 10px 15px;
+  font-size: 0.75em;
+
+  a {
+    color: #fff;
+  }
+}
