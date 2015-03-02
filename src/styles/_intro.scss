@@ -35,6 +35,7 @@ h2 span {
   @include bigass {
     padding-left: 220px;
   }
+
 }
 
 .infocard picture {
@@ -57,7 +58,19 @@ h2 span {
   }
 
   @include bigass {
-    top: 123px;
+    top: 92px;
+  }
+
+}
+
+.infocard--small picture {
+  padding-top: 0;
+  @include desktop {
+    top: 30px;
+  }
+
+  @include bigass {
+    top: 60px;
   }
 }
 
