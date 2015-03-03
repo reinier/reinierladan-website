@@ -7,5 +7,3 @@ gulp.task('deploy', ['dist'], function () {
   return gulp.src(config.deploy+'**/*')
     .pipe( deploy() );
 });
-
-gulp.task('publish', ['clean:dist', 'dist', 'deploy']);
