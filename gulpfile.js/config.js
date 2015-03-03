@@ -52,9 +52,9 @@ module.exports = {
   },
 
   clean: {
-    all: [build, dist],
+    all: [build, dist, './.sass-cache/'],
     build: build,
-    dist: dist,
+    dist: dist
   },
 
   dist: {
