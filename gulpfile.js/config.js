@@ -58,7 +58,6 @@ module.exports = {
   },
 
   dist: {
-    /* @TODO optimize dist flow and change `build` to `dist` */
     deploy: dist
   }
 }
