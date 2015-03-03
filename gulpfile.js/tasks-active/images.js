@@ -12,3 +12,13 @@ gulp.task('images', function () {
   }))
   .pipe(gulp.dest(config.dest));
 });
+
+gulp.task('images:dist', ['clean:dist'], function () {
+  return gulp.src(config.source)
+  .pipe(imagemin({
+    progressive: true,
+    svgoPlugins: [{removeViewBox: false}],
+    use: [pngquant()]
+  }))
+  .pipe(gulp.dest(config.dist));
+});

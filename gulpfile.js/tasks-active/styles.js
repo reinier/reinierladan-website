@@ -10,3 +10,11 @@ gulp.task('styles', function() {
     .pipe(gulp.dest(config.dest))
     .pipe(connect.reload());
 });
+
+gulp.task('styles:dist', ['clean:dist'], function() {
+  return gulp.src(config.source)
+    .pipe(sass(config.sass))
+    .on('error', function (err) { console.log(err.message); })
+    .pipe(gulp.dest(config.dist))
+    .pipe(connect.reload());
+});

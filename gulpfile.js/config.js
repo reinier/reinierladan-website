@@ -12,6 +12,7 @@ module.exports = {
   styles: {
     source: src+'**/*.scss',
     dest: build,
+    dist: dist,
     sass: {
       loadPath: [
         node_modules+'node-bourbon/assets/stylesheets',
@@ -22,17 +23,20 @@ module.exports = {
 
   javascript: {
     source: src+'js/**/*',
-    dest: build+'js/'
+    dest: build+'js/',
+    dist: dist+'js/'
   },
 
   images: {
     source: src+'assets/**/*',
-    dest: build+'assets/'
+    dest: build+'assets/',
+    dist: dist+'assets/'
   },
 
   templates: {
     source: [src+'**/*.html','!'+src+'layouts/*','!'+src+'chunks/*'],
-    dest: build
+    dest: build,
+    dist: dist
   },
 
   watch: {
@@ -48,11 +52,13 @@ module.exports = {
   },
 
   clean: {
-    wipe: [build, dist]
+    all: [build, dist],
+    build: build,
+    dist: dist,
   },
 
   dist: {
     /* @TODO optimize dist flow and change `build` to `dist` */
-    deploy: build
+    deploy: dist
   }
 }
