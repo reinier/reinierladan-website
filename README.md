@@ -1,4 +1,4 @@
-This is the source code for the website [reinierladan.nl](http://reinierladan.nl)
+This WAS the source code for the website [reinierladan.nl](http://reinierladan.nl). This repo is deprecated due to technical dept in the dependencies. Don't have time to fix it now so the site is hand written for now. This repo is for future reference only.
 
 # Development instructions
 
