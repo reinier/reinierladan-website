@@ -1,10 +1,9 @@
-https://sinds82.nl/images/* https://reinierladan.nl/assets/drie-tools/:splat 301!
-
+# Feeds
 /feed/ /feed/index.xml 301!
 /onderwerpen/nieuwsbrief/feed/ /onderwerpen/nieuwsbrief/feed.xml 301!
 
-https://sinds82.nl/about https://reinierladan.nl/over 301!
-
 # Redirect domain aliases to primary domain
+https://sinds82.nl/images/* https://reinierladan.nl/assets/drie-tools/:splat 301!
+https://sinds82.nl/about https://reinierladan.nl/over 301!
 https://sinds82.nl/* https://reinierladan.nl/:splat 301!
 https://www.sinds82.nl/* https://reinierladan.nl/:splat 301!
