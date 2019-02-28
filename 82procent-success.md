@@ -13,6 +13,6 @@ permalink: /82procent-nieuwsbrief-success/
   <p>Je ontvangt vanaf nu, als je je e-mailadres hebt bevestigd, elke week de 82% nieuwsbrief! 🎉</p>
 </div>
 
-Wekelijks schrijf ik de 82% nieuwsbrief over technologie, design, cultuur, geschiedenis, media, films, muziek, van alles dus eigenlijk. Er staan ook dingen in die op [mijn weblog](/blog) zijn verschenen en ik hou je op de hoogte van persoonlijke projecten. Abonneren is gratis. Sluit je aan bij de meer dan 1.000 abonnees.
+Wekelijks schrijf ik [de 82% nieuwsbrief](/82procent-nieuwsbrief) over technologie, design, cultuur, geschiedenis, media, films, muziek, van alles dus eigenlijk. Er staan ook dingen in die op [mijn weblog](/blog) zijn verschenen en ik hou je op de hoogte van persoonlijke projecten. Abonneren is gratis. Sluit je aan bij de meer dan 1.000 abonnees.
 
 {% include newsletter-subscribe.html %}
