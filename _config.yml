@@ -66,22 +66,22 @@ titles_from_headings:
   collections: true
   strip_title: true
 
-# collections:
-#   category:
-#     output: true
-
 defaults:
   -
     scope:
-      path: "_posts/82procent" # an empty string here means all files in the project
+      path: _posts/82procent
     values:
-      categories: "nieuwsbrief"
+      categories: nieuwsbrief
   -
     scope:
-      path: "_posts/algemeen" # an empty string here means all files in the project
+      path: _posts/algemeen
     values:
-      categories: "general"
-      # hidden: true
+      categories: general
+  -
+    scope:
+      path: _posts/apptips
+    values:
+      categories: apptips, general
 
 # Theme settings
 minima:
