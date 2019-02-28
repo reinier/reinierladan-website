@@ -1,0 +1,7 @@
+[[redirects]]
+  from = "/feed/"
+  to = "/feed/index.xml"
+  
+[[redirects]]
+  from = "/onderwerpen/nieuwsbrief/feed/"
+  to = "/onderwerpen/nieuwsbrief/feed.xml"

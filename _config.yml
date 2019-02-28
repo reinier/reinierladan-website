@@ -1,0 +1,100 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Hi, Reinier hier.
+email: reinier@ladan.email
+author: Reinier Ladan
+description: >- # this means to ignore newlines until "baseurl:"
+  Alles over Reinier Ladan
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: reinier
+github_username:  reinier
+
+lang: NL
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+permalink:  /:year/:month/:day/:title
+
+header_pages:
+- over.md
+- contact.md
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+plugins:
+  - jekyll-feed
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+  - jekyll-paginate-v2
+
+# Pagination prefs
+# https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
+
+pagination:
+
+  # Site-wide kill switch, disabled here it doesn't run at all
+  enabled: true
+
+  # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
+  debug: false
+
+  # Optional, sorts the posts in reverse order (omit to default decending or sort_reverse: true)
+  sort_reverse: true
+
+feed:
+  path: feed/index.xml
+
+titles_from_headings:
+  enabled:     true
+  collections: true
+  strip_title: true
+
+# collections:
+#   category:
+#     output: true
+
+defaults:
+  -
+    scope:
+      path: "_posts/82procent" # an empty string here means all files in the project
+    values:
+      categories: "nieuwsbrief"
+  -
+    scope:
+      path: "_posts/algemeen" # an empty string here means all files in the project
+    values:
+      categories: "general"
+      # hidden: true
+
+# Theme settings
+minima:
+  date_format: "%d-%m-%Y"
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

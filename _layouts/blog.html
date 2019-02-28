@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+{% if paginator.page == 1 %}
+
+  {{ content }}
+
+{% else %}
+
+  <h1>Pagina {{ paginator.page }}</h1>
+
+{% endif %}
+
+<div class="blog">
+  {% for post in paginator.posts %}
+    <a href="{{ post.url | prepend: site.baseurl }}" class="blog-item">
+      <div>
+        <time datetime="{{ post.date }}" class="blog-time">{{ post.date | dutchDate }}</time>
+        <h2 class="blog-title">{% if post.categories contains 'nieuwsbrief' %}<span class="category-newsletter">82% </span>{% endif %}{{ post.title }}</h2>
+        <p>
+          <!-- {{ post.excerpt }} -->
+          {{ post.content | strip_html | truncatewords: 40 }}
+        </p>
+
+      </div>
+    </a>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
+  {% endif %}
+
+  <span>{{ paginator.page }}</span>
+</div>

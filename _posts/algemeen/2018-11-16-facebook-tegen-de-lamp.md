@@ -1,0 +1,3 @@
+# Facebook loopt tegen de lamp
+
+Facebook is uitgegroeid tot een van de machtigste partijen op internet en [maakt daar flink misbruik van](https://www.nytimes.com/2018/11/14/technology/facebook-data-russia-election-racism.html). Dit zal weer weer met een sisser aflopen, zegt de pessimist in mij, maar veel langer kan het toch niet duren voordat we met z’n allen wakker worden? Nieuwe directie, aanpak vanuit de overheid of een opstand van de gebruikers moet er aan te pas komen om enigszins de koers te veranderen. Ik zie het zo snel nog niet gebeuren helaas. 

@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css?family=Lora:700|Roboto:400,400i,700');
+
+// https://coolors.co/2b2d42-8d99ae-edf2f4-ef233c-d90429
+
+$rl-theme-color-1: #2B2D42;
+$rl-theme-color-2: #D90429;
+$rl-theme-color-3: #EDF2F4;
+$rl-theme-color-4: #EF233C;
+$rl-theme-color-5: #8D99AE;
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2em;
+}
+
+iframe {
+  border: 0;
+}
+
+p {
+  margin-bottom: 1.2em;
+}
+
+a {
+  text-decoration: underline;
+  color: $rl-theme-color-2;
+
+  &:visited,
+  &:hover {
+    color: $rl-theme-color-2;
+  }
+}
+
+.site-header {
+  background-color: $rl-theme-color-1;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  margin-bottom: 3em;
+  font-family: 'Lora', serif;
+  border-bottom: 0;
+  // border-top: 10px solid $rl-theme-color-5;
+  border-top: 0;
+
+  .wrapper {
+    text-align: center;
+
+    a {
+      float: none;
+    }
+  }
+
+  a,
+  .site-title,
+  .site-title:visited,
+  .site-nav .page-link {
+    color: $rl-theme-color-3;
+  }
+}
+
+.page-home {
+  .site-header {
+
+    padding-top: 6em;
+    padding-bottom: 6em;
+
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lora', serif;
+}
+
+h2 {
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+h3 {
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+blockquote {
+  letter-spacing: 0;
+}
+
+.blog-posts {
+  margin-top: 3em;
+  border-top: 1px solid #eee;
+  padding-top: 3em;
+}
+
+.post-content {
+  border-bottom: 1px solid #999;
+  padding-bottom: 3em;
+  margin-bottom: 4em;
+}
+
+.page .post-content {
+  border-bottom: 0;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.profile-pic {
+  margin: 1em 0;
+  // text-align: center;
+
+  img {
+    border: 2px solid $rl-theme-color-1;
+  }
+}
+
+nav.site-nav {
+  display: none;
+  // top: 38px;
+  // right: 22px;
+}
+
+.intro {
+  font-size: 1.4em;
+}
+
+footer.site-footer {
+  margin-top: 5em;
+}
+
+.blog {
+  margin-top: 2em;
+}
+
+a.blog-item {
+  text-decoration: none;
+  margin-bottom: 3em;
+  display: block;
+  color: $text-color;
+
+  h2 {
+    text-decoration: underline;
+    margin: 0.3em 0;
+    color: $rl-theme-color-2;
+  }
+
+  p {
+    color: $grey-color;
+  }
+}
+
+.pagination {
+  text-align: center;
+  position: relative;
+  font-size: 2em;
+
+  .right.arrow {
+    position: absolute;
+    right: 0;
+  }
+
+  .left.arrow {
+    position: absolute;
+    left: 0;
+  }
+}
+
+.highlight {
+  margin-bottom: 1em;
+  border: 3px solid $rl-theme-color-5;
+  background-color: $rl-theme-color-3;
+  padding: 1em;
+
+  p, ul {
+    margin-bottom: 0;
+  }
+
+  li {
+    margin: 0.5em 0;
+  }
+
+  li:last-child {
+    margin-bottom: 0;
+  }
+}
+
+// Buttondown subscription form
+
+.embeddable-buttondown-form {
+  margin-bottom: 1em;
+  border: 3px solid $rl-theme-color-5;
+  background-color: $rl-theme-color-3;
+  padding: 1em;
+}
+
+#bd-email {
+  font-size: 1.2em;
+  padding: 0.3em;
+  width: 90%;
+  max-width: 20em;
+  margin-bottom: 0.5em;
+}
+
+#bd-submit {
+  font-size: 1.2em;
+  padding: 0.3em;
+}
+
+// Video embed
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.post-content h1 {
+  font-size: 42px;
+  letter-spacing: -1px;
+  line-height: 1;
+  margin-bottom: 1em;
+}
