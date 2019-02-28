@@ -4,8 +4,6 @@ title: E-mailbeleid
 permalink: /emailbeleid/
 ---
 
-# E-mailbeleid
-
 **De grootste aanslag op productiviteit is e-mail.** Het lezen van e-mail, het schrijven van e-mail, notificaties over e-mail. E-mail zit tegenwoordig overal en vraagt nogal eens wat aandacht. Daarom is dit e-mailbeleid opgesteld met als doel e-mail behapbaar te houden en in goede banen te leiden.
 
 - E-mail lezen: 3 keer per dag (weekend 1 keer per dag)
