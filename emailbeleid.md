@@ -39,7 +39,7 @@ Het versturen van e-mail kan de hele dag door.
 
 Om verder de productiviteit op peil te houden zijn alle notificatiesystemen uitgezet. Oók die op mobiele telefoons. <strong>Wil je me direct over iets spreken of heb je een e-mail gestuurd welke ik direct zou moeten lezen? SMS dan.</strong>
 
-<hr>
+## Samenwerking en copyright
 
 Wil je me helpen met het beter maken van dit e-mail beleid? Stuur dan je opmerkingen naar reinier@ladan.email of [schiet een Pull Request in op Github](https://github.com/reinier/reinierladan-website/blob/master/emailbeleid.md).
 
