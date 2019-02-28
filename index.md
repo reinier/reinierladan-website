@@ -32,6 +32,8 @@ Dit is een overzicht van alle dingen die je hier op deze website kunt vinden:
 - [Weblog](/blog)
 - [82% nieuwsbrief](/82procent-nieuwsbrief)
 - [Over mij](/over)
+- [Mijn e-mailbeleid](/emailbeleid)
+- [Mijn bedrijf Digital Energy BV](/digital-energy-bv)
 - [Hoe dit alles te volgen](/hoe-te-volgen)
 - [Contact](/contact)
 

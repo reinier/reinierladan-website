@@ -11,9 +11,10 @@ Een compleet beeld in de vorm van lijstjes met links.
 - [Freelance bezigheden](/freelance)
 - [Weblog](/blog)
 - [82% nieuwsbrief](/82procent-nieuwsbrief)
-- [Ik als spreker](/spreker)
-- [Hoe dit alles te volgen](/hoe-te-volgen)
 - [Over mij](/over)
+- [Mijn e-mailbeleid](/emailbeleid)
+- [Mijn bedrijf Digital Energy BV](/digital-energy-bv)
+- [Hoe dit alles te volgen](/hoe-te-volgen)
 - [Contact](/contact)
 
 ## Business
