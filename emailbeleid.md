@@ -43,6 +43,6 @@ Om verder de productiviteit op peil te houden zijn alle notificatiesystemen uitg
 
 <hr>
 
-Wil je me helpen met het beter maken van dit e-mail beleid? Stuur dan je opmerkingen naar reinier@ladan.email of [schiet een Pull Request in op Github](https://github.com/reinier/emailbeleid).
+Wil je me helpen met het beter maken van dit e-mail beleid? Stuur dan je opmerkingen naar reinier@ladan.email of [schiet een Pull Request in op Github](https://github.com/reinier/reinierladan-website/blob/master/emailbeleid.md).
 
-E-mailbeleid door <a href="http://reinierladan.nl" rel="cc:attributionURL">Reinier Ladan</a> heeft de volgende licentie: <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
+E-mailbeleid door <a href="https://reinierladan.nl" rel="cc:attributionURL">Reinier Ladan</a> heeft de volgende licentie: <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a>.
