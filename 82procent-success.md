@@ -3,12 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: 82% Nieuwsbrief (ingeschreven)
 permalink: /82procent-nieuwsbrief-success/
 
 ---
 
-# 82% Nieuwsbrief
+# 82% Nieuwsbrief: ingeschreven
 
 <div class="highlight">
   <p>Je ontvangt vanaf nu, als je je e-mailadres hebt bevestigd, elke week de 82% nieuwsbrief! 🎉</p>
