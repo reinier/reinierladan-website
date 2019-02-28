@@ -1,0 +1,3 @@
+# Redirect domain aliases to primary domain
+https://sinds82.nl/* https://reinierladan.nl/:splat 301!
+https://www.sinds82.nl/* https://reinierladan.nl/:splat 301!
