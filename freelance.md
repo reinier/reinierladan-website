@@ -21,4 +21,4 @@ Een paar projecten wil ik graag uitlichten om zo te laten zien waar mijn experti
 - [Alle omroepen bij NLZiet](/projecten/nlziet)
 - [Schiphol op eigen benen met de Schiphol App](/projecten/schiphol-app)
 
-De zakelijke entitieit waaronder ik mijn werkzaamheden uitvoer heet [Digital Energy BV](https://digitalenergy.nl).
+De zakelijke entitieit waaronder ik mijn werkzaamheden uitvoer heet [Digital Energy BV](/digital-energy-bv).
