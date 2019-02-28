@@ -1,7 +1,23 @@
 [[redirects]]
   from = "/feed/"
   to = "/feed/index.xml"
-  
+
 [[redirects]]
   from = "/onderwerpen/nieuwsbrief/feed/"
   to = "/onderwerpen/nieuwsbrief/feed.xml"
+
+[[redirects]]
+  from = "https://sinds82.nl/about"
+  to = "https://reinierladan.nl/over"
+
+[[redirects]]
+  from = "https://sinds82.nl/images/*"
+  to = "https://reinierladan.nl/assets/drie-tools/:splat"
+
+[[redirects]]
+  from = "https://sinds82.nl/*"
+  to = "https://reinierladan.nl/:splat"
+
+[[redirects]]
+  from = "https://www.sinds82.nl/*"
+  to = "https://reinierladan.nl/:splat"
