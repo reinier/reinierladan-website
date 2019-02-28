@@ -1,5 +1,3 @@
 # README
 
-## Todo
-
-- [ ] Fix url structuur zodat het hetzelfde wordt als sinds82.nl
+Deze repository is de broncode van de website [reinierladan.nl](https://reinierladan.nl)
