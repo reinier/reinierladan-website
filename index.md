@@ -7,14 +7,13 @@ class: page-home
 
 <div class="intro"><p>Dit is dé plek waar je alles kunt vinden <a href="/over">over Reinier Ladan</a>. Vanaf nu praat hij niet meer in de derde persoon. Hi!</p></div>
 
-<div class="highlight">
+
   <p>Snel naar:</p>
   <ul>
   <li><a href="/freelance">Info over mijn freelance bezigheden</a></li>
     <li><a href="/blog">Mijn weblog</a></li>
     <li><a href="/82procent-nieuwsbrief">De 82% nieuwsbrief</a></li>
   </ul>
-</div>
 
 ## Dit ben ik, in 1 minuut
 
