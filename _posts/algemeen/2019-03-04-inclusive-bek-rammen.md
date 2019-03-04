@@ -7,3 +7,5 @@ Net zo common sense als iemand niet op z’n bek rammen is het voor mij om [digi
 Het komt nog te vaak voor designers [iets ogenschijnlijks slim denken te ontwerpen maar wat uiteindelijk bloed-irritant is voor veel mensen](http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/). Een standaard oplossing is vaak gewoon de beste.
 
 Naast inclusiviteit kun je met [het verbeteren van de performance van je website of app ook nog eens het klimaat een handje helpen](https://timkadlec.com/remembers/2019-01-09-the-ethics-of-performance/). Daarmee is het verbeteren van de snelheid van je website of app ineens **een ethische kwestie** geworden en is het kostenplaatje een stuk minder interessant. De vraag moet dan eigenlijk worden: gaan we dit product _goed_ maken of gaan we dit product _niet_ maken?
+
+Mocht je hier wat advies over willen als professional of organisatie, zorg dan [dat je Peter van Grieken erover te pakken krijgt](https://frozenrockets.nl).
