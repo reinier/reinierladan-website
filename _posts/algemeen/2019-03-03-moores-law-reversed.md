@@ -1,0 +1,5 @@
+# Moore’s Law Reversed
+
+> Our species has not only reshaped its planet’s biosphere, but is in the middle of engendering changes to its terrain, oceans and climate on a scale only asteroid impacts or centuries of apocalyptic volcanic eruptions previously equalled.
+
+Nee, dit komt niet uit de zoveelste rant over het klimaat (al kunnen er daar niet genoeg van zijn), dit komt uit het artikel [Technology in deep time: How it evolves alongside us](http://www.bbc.com/future/story/20190207-technology-in-deep-time-how-it-evolves-alongside-us?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-24) van de BBC. Tom Chatfield zet de geschiedenis van technologie in een iets ander licht dan je normaal hoort. Het inzicht dat technologie niet alleen om de twee jaar twee keer zo snel wordt maar dat wij als mensheid daarmee ook twee keer zo langzaam worden is iets om even over na te denken.
