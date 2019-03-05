@@ -1,4 +1,4 @@
-# Iemand op z’n bek rammen is niet inclusive
+# Iemand op z’n bek rammen is niet 'inclusive'
 
 Gelukkig hoef je in 2019 niemand meer uit te leggen dat het niet okay is om een willekeurig iemand midden op straat op z’n bek te rammen. Iedereen snapt dat dat meer ellende en verdriet oplevert dan als je dat niet doet. Het is _common sense_ om niet zomaar iemand [een muilpeer](https://nl.wiktionary.org/wiki/muilpeer) te geven.
 
