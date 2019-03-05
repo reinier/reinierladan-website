@@ -4,7 +4,7 @@ title: Digital Energy BV
 permalink: /digital-energy-bv/
 ---
 
-<img src="/assets/digital-energy-logo.jpg" width="100px">
+<img src="/assets/digital-energy-logo.jpg" width="100px" alt="Digital Energy BV logo">
 
 Digital Energy B.V. is de holding voor [mijn professionele werkzaamheden die ik uitvoer als freelancer](/freelance).
 

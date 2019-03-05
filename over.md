@@ -6,7 +6,7 @@ permalink: /over/
 
 Wat valt er eigenlijk over mij te vertellen? Misschien probeer ik daar al sinds 1982 achter te komen.
 
-<div class="profile-pic"><img src="/assets/reinier-profile.jpg" width="200px"></div>
+<div class="profile-pic"><img src="/assets/reinier-profile.jpg" width="200px" alt="Profiel foto van Reinier met een astronauthelm op zijn hoofd"></div>
 
 Op [de homepage van deze site](/) valt al te lezen dat ik als freelancer designer en product owner inzetbaar ben en dat ik graag schrijf en podcasts maak. Verder hou ik van boeken lezen, lekker eten (geen vlees) en naar films kijken. Ook ga ik graag golfen en probeer ik het leven te begrijpen.
 
