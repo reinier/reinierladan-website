@@ -8,7 +8,7 @@ pagination:
 
 ---
 
-<div class="intro"><p>Dit is dé plek waar je alles kunt vinden <a href="/over">over Reinier Ladan</a>. Vanaf nu praat hij niet meer in de derde persoon. Hi!</p></div>
+<div class="intro"><p>Dit is dé plek waar je alles kunt vinden <a href="/over">over Reinier Ladan</a>. Vanaf nu praat hij niet meer vanuit de derde persoon. Hi!</p></div>
 
 <!-- Snel naar:
 
