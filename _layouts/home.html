@@ -9,4 +9,40 @@ layout: default
 
   {{ content }}
 
+  <h2>Laatste drie blogposts</h2>
+
+  <div class="blog">
+    {% for post in paginator.posts limit:3 %}
+      <a href="{{ post.url | prepend: site.baseurl }}" class="blog-item">
+        <div>
+          <time datetime="{{ post.date }}" class="blog-time">{{ post.date | dutchDate }}</time>
+          <h2 class="blog-title">{% if post.categories contains 'nieuwsbrief' %}<span class="category-newsletter">82% </span>{% endif %}{{ post.title }}</h2>
+          <p>
+            <!-- {{ post.excerpt }} -->
+            {{ post.content | strip_html | truncatewords: 40 }}
+          </p>
+
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+
+  <p><a href="/blog">Meer op het weblog →</a></p>
+
+  <h2>Overzicht van deze website</h2>
+
+  <ul>
+    <li><a href="/freelance">Freelance bezigheden</a></li>
+    <li><a href="/blog">Weblog</a></li>
+    <li><a href="/82procent-nieuwsbrief">82% nieuwsbrief</a></li>
+    <li><a href="/over">Over mij</a></li>
+    <li><a href="/emailbeleid">Mijn e-mailbeleid</a></li>
+    <li><a href="/digital-energy-bv">Mijn bedrijf Digital Energy BV</a></li>
+    <li><a href="/hoe-te-volgen">Hoe dit alles te volgen</a></li>
+    <li><a href="/contact">Contact</a></li>
+  </ul>
+  <ul>
+    <li><a href="/links">Links naar diverse online bezigheden</a></li>
+  </ul>
+
 </div>
