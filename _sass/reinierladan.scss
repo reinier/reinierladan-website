@@ -90,6 +90,10 @@ blockquote {
   letter-spacing: 0;
 }
 
+ul li {
+  margin-bottom: 0.5em;
+}
+
 .blog-posts {
   margin-top: 3em;
   border-top: 1px solid #eee;
@@ -134,6 +138,14 @@ footer.site-footer {
 
 .blog {
   margin-top: 2em;
+}
+
+.doe-een-gift {
+  margin-top: 3em;
+
+  li {
+    margin: 0.75em 0;
+  }
 }
 
 a.blog-item {
