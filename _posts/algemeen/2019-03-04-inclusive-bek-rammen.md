@@ -1,3 +1,9 @@
+---
+
+image: /assets/punch.jpg
+
+---
+
 # Iemand op z’n bek rammen is niet 'inclusive'
 
 ![VR gast deelt een stoot uit](/assets/punch.jpg)
