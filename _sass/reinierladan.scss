@@ -70,6 +70,11 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Lora', serif;
 }
 
+h1.post-title {
+  line-height: 1.2em;
+  letter-spacing: -2px;
+}
+
 h2 {
   margin-top: 2em;
   margin-bottom: 1em;
@@ -219,11 +224,4 @@ a.blog-item {
   left: 0;
   width: 100%;
   height: 100%;
-}
-
-.post-content h1 {
-  font-size: 42px;
-  letter-spacing: -1px;
-  line-height: 1;
-  margin-bottom: 1em;
 }
