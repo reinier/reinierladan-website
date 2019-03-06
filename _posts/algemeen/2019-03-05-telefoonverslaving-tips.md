@@ -14,4 +14,4 @@ Mijn strategie is eigenlijk vrij simpel. _Maak gewoon minder mogelijk met je tel
 
 - Social media. Dat betekent dus geen Twitter, Facebook, LinkedIn, Instagram, etc. en vooral die laatste doet pijn want er is geen alternatief op een ander device aanwezig.
 - E-mail. Dat doe ik nu al een paar maanden niet meer op mijn telefoon en de wereld staat nog steeds niet in brand.
-- Groepscommunicatie zoals Slack. WhatsApp is wat dat betreft wat moeilijker maar ik heb groepschats _altijd_ gemute.
+- Groepscommunicatie zoals Slack. WhatsApp is wat dat betreft wat moeilijker maar ik heb groepschats _altijd_ gemute staan.
