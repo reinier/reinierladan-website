@@ -8,7 +8,7 @@ image: /assets/mensen-met-telefoon.jpg
 
 ![Mensen met telefoon](/assets/mensen-met-telefoon.jpg)
 
-[Vorige week schrijf ik al over telefoonverslaving](https://reinierladan.nl/2019/02/27/telefoonverslaving) maar wat ik er niet bij vermelde was welke strategie _ik_ volg om niet gevangen te zitten in mijn telefoon.
+[Vorige week schreef ik al over telefoonverslaving](https://reinierladan.nl/2019/02/27/telefoonverslaving) maar wat ik er niet bij vermelde was welke strategie _ik_ volg om niet gevangen te zitten in mijn telefoon.
 
 Mijn strategie is eigenlijk vrij simpel. _Maak gewoon minder mogelijk met je telefoon._ Dingen die ik **niet** op mijn telefoon doe:
 
