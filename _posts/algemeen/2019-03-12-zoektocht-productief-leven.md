@@ -1,0 +1,3 @@
+# Zoektocht naar een productief leven 
+
+Als een je een uurtje hebt dan kun je [Seeking the Productive Life: Some Details of My Personal Infrastructure](https://blog.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/) van Stephen Wolfram lezen. Het is een kneuterig verhaal (check die foto’s!) over een levenslange zoektocht naar productief werken als een ‘remote CEO’. Hij heeft zelfs een constructie gemaakt waardoor hij, met visserspetje en alles, door de natuur kan lopen en z’n laptop kan gebruiken. Wat een vent. Het stuk staat boordevol met grafieken, kaarten en de tools die hij gebruikt.
