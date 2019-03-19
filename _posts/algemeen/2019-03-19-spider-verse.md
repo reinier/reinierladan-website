@@ -1,6 +1,6 @@
 ---
 
-image: /assets/spiderverse.jpg
+image: https://reinierladan.nl/assets/spiderverse.jpg
 
 ---
 
