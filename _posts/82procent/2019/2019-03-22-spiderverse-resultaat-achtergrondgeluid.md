@@ -57,4 +57,4 @@ De betaalde oproepjes zorgen ervoor dat de schoorsteen blijft roken op het 82% h
 - [Quantum computing for the very curious](https://quantum.country/qcvc)
 - [Ik onderzocht die nepadvertenties vol BN’ers die bitcoin-miljardairs werden](https://vicemoney.nl/2019/03/20/ik-onderzocht-die-nepadvertenties-vol-bners-die-bitcoin-miljardairs-werden/)
 - [The Wasabi Farmer](https://kottke.org/19/03/the-wasabi-farmer)
-- [Stepping Into the Uncanny, Unsettling World of Shen Yun | The New Yorker](https://www.newyorker.com/culture/culture-desk/stepping-into-the-uncanny-unsettling-world-of-shen-yun)
+- [Stepping Into the Uncanny, Unsettling World of Shen Yun](https://www.newyorker.com/culture/culture-desk/stepping-into-the-uncanny-unsettling-world-of-shen-yun)
