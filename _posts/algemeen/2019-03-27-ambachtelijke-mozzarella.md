@@ -2,6 +2,7 @@
 title:  "Ambachtelijke mozzarella en Dutch Babies"
 image: https://reinierladan.nl/assets/mozzarella.jpg
 date:   2019-03-27 09:00:00 +0200
+description: Ik nam altijd aan dat het, net als andere kazen, gewoon in een mal werd gemaakt en het vervolgens een tijd moest rijpen maar niks is minder waar.
 ---
 
 ![Mozzarella](https://reinierladan.nl/assets/mozzarella.jpg)

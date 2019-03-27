@@ -1,7 +1,7 @@
 ---
 title:  "Delegeer een resultaat, niet de activiteit"
 image: https://reinierladan.nl/assets/work.jpg
-
+description: Als manager of lid van een team moet je werk delegeren en zorgen voor goede resultaten zonder zelf al te veel aan de knoppen te draaien. Dit kan voor mensen die het fijn vinden om dingen zelf te maken moeilijk zijn.
 ---
 
 ![Mensen aan het werk](https://reinierladan.nl/assets/work.jpg)

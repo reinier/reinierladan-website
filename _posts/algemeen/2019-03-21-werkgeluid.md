@@ -1,7 +1,7 @@
 ---
 title:  "Focus met geluid in plaats van muziek"
 image: https://reinierladan.nl/assets/headphones.jpg
-
+description: Als ik werk luister ik het liefst naar achtergrondgeluiden. Dus niet naar muziek maar naar bijvoorbeeld regen en onweer of onderwatergeluiden.
 ---
 
 ![Koptelefoon](https://reinierladan.nl/assets/headphones.jpg)
