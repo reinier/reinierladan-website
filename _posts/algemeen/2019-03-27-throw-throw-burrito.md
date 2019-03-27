@@ -2,6 +2,7 @@
 title:  "Throw Throw Burrito"
 image: https://reinierladan.nl/assets/throwthrowburrito.jpg
 date:   2019-03-27 11:00:00 +0200
+description: De bedenkers van Exploding Kitten hebben nu een kickstarter opgezet voor hun nieuwe spel Throw Throw Burrito wat een kruising is tussen een kaartspel en trefbal
 ---
 
 ![De burrito die je moet gooien](https://reinierladan.nl/assets/throwthrowburrito.jpg)
