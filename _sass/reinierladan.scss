@@ -141,14 +141,6 @@ footer.site-footer {
   margin-top: 2em;
 }
 
-.doe-een-gift {
-  margin-top: 3em;
-
-  li {
-    margin: 0.75em 0;
-  }
-}
-
 a.blog-item {
   text-decoration: none;
   margin-bottom: 3em;
@@ -240,4 +232,22 @@ a.blog-item {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.doe-een-gift {
+  margin-bottom: 3em;
+}
+
+.schenk-kop-koffie {
+  background-color: $rl-theme-color-1;
+  color: #fff;
+  display: inline-block;
+  padding: 0.5em 1em;
+  border-radius: 3px;
+  text-decoration: none;
+
+  &:hover, &:visited  {
+    text-decoration: none;
+    color: #fff;
+  }
 }
