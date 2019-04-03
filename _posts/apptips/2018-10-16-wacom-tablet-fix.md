@@ -2,7 +2,6 @@
 layout: post
 title:  "Fix voor crashende Wacom Tablet drivers"
 date:   2018-10-16 20:22:49 +0200
-categories: mac
 tags: wacom
 ---
 

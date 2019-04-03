@@ -2,7 +2,6 @@
 layout: post
 title:  "Bekijk Marked in stijl"
 date:   2018-10-19 11:01:02 +0200
-categories: mac
 tags: marked
 ---
 

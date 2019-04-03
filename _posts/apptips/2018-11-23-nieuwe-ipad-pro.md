@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Ervaring met de nieuwe iPad Pro"
-categories: ios
 tags: ipad, ipad pro
 ---
 

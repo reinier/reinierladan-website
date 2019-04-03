@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Scheduled posts met Jekyll en Zapier"
-categories: web
 tags: automation, jekyll, zapier
 image: https://reinierladan.nl/assets/zapier-github.jpg
 ---
