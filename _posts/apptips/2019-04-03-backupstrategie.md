@@ -2,6 +2,7 @@
 layout: post
 title:  "Mijn Backupstrategie"
 tags: backup, arq, b2
+description: Een backup geeft je rust en is helemaal niet zo moeilijk om in te regelen. Dit zijn mijn backupmethodes.
 image: https://reinierladan.nl/assets/broken-macbook.jpg
 ---
 
