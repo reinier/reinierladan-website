@@ -8,7 +8,7 @@ permalink: /freelance/
   <p>Huidige status: <strong>Halverwege mei ben ik weer beschikbaar voor een leuke klus</strong>.</p>
 </div>
 
-Sinds 1999 werk ik freelance. In het begin voornamelijk als hybride designer/developer maar de laatste tien jaar voornamelijk als designer en product owner / manager. Die laatste twee rollen complementeren elkaar wat mij betreft om een zo goed mogelijk digitaal product neer te zetten. [Op LinkedIn vind je natuurlijk een vrij gedetailleerd overzicht van mijn kennis en ervaring](https://www.linkedin.com/in/reinierladan/).
+De wereld is constant aan het veranderen. Sterker nog: de wereld verandert _steeds sneller_. Om hierop in te spelen is het noodzakelijk om constant bezig te zijn met je digitale dienstverlening, of je nou een organisatie met 4 of 40.000 mensen bent. Websites, apps, integraties met andere systemen, noem maar op. Als designer en/of product owner kan ik hier heel goed van pas bij komen. [Op LinkedIn vind je uiteraard een vrij gedetailleerd overzicht van mijn kennis en ervaring](https://www.linkedin.com/in/reinierladan/).
 
 Als freelancer heb ik _onder andere_ voor de volgende organisaties mogen werken:
 
