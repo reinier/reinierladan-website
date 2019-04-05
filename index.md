@@ -18,7 +18,9 @@ pagination:
 
 # Dit ben ik, in 1 minuut
 
-Sinds 1999 ben ik [freelance designer en product owner](/freelance) en help ik organisaties bij het opstarten en verbeteren van digitale producten en diensten. **De afgelopen jaren heb ik onder andere gewerkt voor de NOS, NPO, Sanoma, NLZiet, FOX Sports, NRC en Schiphol.** Zo heb ik [de eerste NOS app](/projecten/nos-app) ontworpen, diverse [Publieke Omroep websites samengebracht onder NPO.nl](/projecten/npo-website) en hielp ik Schiphol als product owner bij [het zelf ontwikkelen van de Schiphol app](/projecten/schiphol-app).
+Sinds 1999 ben ik [freelance designer en product owner](/freelance) en help ik organisaties bij het opstarten en verbeteren van digitale producten en diensten. **De afgelopen jaren heb ik onder andere gewerkt voor de NOS, NPO, Sanoma, NLZiet, FOX Sports, NRC en Schiphol.**
+
+Zo heb ik [de eerste NOS app](/projecten/nos-app) ontworpen, diverse [Publieke Omroep websites samengebracht onder NPO.nl](/projecten/npo-website) en hielp ik Schiphol als product owner bij [het zelf ontwikkelen van de Schiphol app](/projecten/schiphol-app).
 
 Elke week schrijf ik de [82% nieuwsbrief](/82procent-nieuwsbrief/) maar verder deel ik ook graag apptips, inzichten over productiviteit en zelfverbetering en mijmeringen over het leven [op mijn weblog](/blog).
 
