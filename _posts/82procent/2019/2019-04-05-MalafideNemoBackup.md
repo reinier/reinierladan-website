@@ -16,11 +16,11 @@ Doordat er letterlijk geen hond komt wordt de plek vaak uitgekozen om raketten d
 
 💻
 
-Via [een tweet van Patrick Loonstra](https://twitter.com/patrickloonstra/status/1112990307216510976) kwam ik erachter dat het [31 maart World Backup Day](https://www.forbes.com/sites/tomcoughlin/2019/03/31/world-backup-day-2019/) was. En daarmee wordt dus niet een nederzetting op Mars bedoelt (wat een prima backup voor de wereld zou zijn) maar een dag om even stil te staan bij hoe je jouw gegevens backupt.
+Via [een tweet van Patrick Loonstra](https://twitter.com/patrickloonstra/status/1112990307216510976) kwam ik erachter dat het [31 maart World Backup Day](https://www.forbes.com/sites/tomcoughlin/2019/03/31/world-backup-day-2019/) was. En daarmee wordt dus niet een nederzetting op Mars bedoeld (wat een prima backup voor de wereld zou zijn) maar een dag om even stil te staan bij hoe je jouw gegevens backupt.
 
 [Patrick heeft hier zelf een stuk over geschreven](https://www.patrickloonstra.nl/notities/backup-dag-dus-back-alles-op/) en het leek me een goed idee om ook te doen.
 
-**Arq + B2** — [Arq is een Mac app](https://www.arqbackup.com) waarmee je zelf bepaalt naar welke clouddienst je een backup maakt. De backup wordt ook nog eens op jouw computer versleuteld zodat niemand aan de andere kant van de lijn in je bestanden kan rondneuzen. En Arq werkt met snapshots zodat je bestanden die je hebt verwijdert ook gewoon nog kan terughalen.
+**Arq + B2** — [Arq is een Mac app](https://www.arqbackup.com) waarmee je zelf bepaalt naar welke clouddienst je een backup maakt. De backup wordt ook nog eens op jouw computer versleuteld zodat niemand aan de andere kant van de lijn in je bestanden kan rondneuzen. En Arq werkt met snapshots zodat je bestanden die je hebt verwijderd ook gewoon nog kan terughalen.
 
 [De clouddienst die ik bij voorkeur gebruik met Arq is B2](https://www.backblaze.com/b2/cloud-storage.html), een dienst van Backblaze. B2 werkt eigenlijk net als Amazon S3 maar dan veel eenvoudiger. Je betaalt ook enkel voor de ruimte die je in gebruik hebt en je kunt je data ook indelen in buckets als je dat wilt maar B2 heeft een veel eenvoudiger authenticatiesysteem dan S3 en ze zijn naar eigen zeggen ook goedkoper dan S3.
 
