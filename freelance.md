@@ -5,7 +5,7 @@ permalink: /freelance/
 ---
 
 <div class="highlight">
-  <p>Huidige status: <strong>Op dit moment ben ik voorzien van genoeg werk.</strong></p>
+  <p>Huidige status: <strong>Halverwege mei ben ik weer beschikbaar voor een leuke klus</strong>.</p>
 </div>
 
 Sinds 1999 werk ik freelance. In het begin voornamelijk als hybride designer/developer maar de laatste tien jaar voornamelijk als designer en product owner / manager. Die laatste twee rollen complementeren elkaar wat mij betreft om een zo goed mogelijk digitaal product neer te zetten. [Op LinkedIn vind je natuurlijk een vrij gedetailleerd overzicht van mijn kennis en ervaring](https://www.linkedin.com/in/reinierladan/).
