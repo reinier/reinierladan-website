@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Freelance bezigheden
+title: Freelance bezigheden van Reinier Ladan
 permalink: /freelance/
 ---
 
