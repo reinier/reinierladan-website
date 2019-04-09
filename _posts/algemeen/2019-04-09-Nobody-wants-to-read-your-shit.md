@@ -15,8 +15,8 @@ Steven Pressfield schreef er [The Most Important Writing Lesson I Ever Learned](
 
 > Nobody wants to read your shit.
 
-Dit is 1 op 1 te vertalen in een les over de producten en diensten: “Nobody wants to _use_ your shit”. Steven heeft dit inzicht gebruikt toen hij boeken ging schrijven.
+Steven heeft dit inzicht gebruikt toen hij boeken ging schrijven.
 
 > When I began to write novels, this mindset proved indispensable. It steered me away from Client’s Disease. It warned me not to fall in love with my own shit just because it was my own shit. Don’t be lazy, Steve. Don’t assume. Look at every word through the eye of the busy, impatient, skeptical (but also generous and curious) reader. Give him something worthy of the time and attention he’s giving you.
 
-Het aan de man brengen van je producten, diensten of ideeën vergt gewoon veel energie, daar kun je niet omheen. 
+De les van Steven is 1 op 1 te vertalen in een les over producten en diensten: “Nobody wants to _use_ your shit”. Het aan de man brengen van je producten, diensten of ideeën vergt gewoon veel energie, tijd en geld. Daar zijn geen shortcuts voor. 
