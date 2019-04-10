@@ -1,4 +1,29 @@
-@import url('https://fonts.googleapis.com/css?family=Lora:700|Roboto:400,400i,700');
+@font-face {
+    font-family: 'Public Sans webfont';
+    src: url('./fonts/PublicSans-Regular.woff2') format('woff2'),
+         url('./fonts/PublicSans-Regular.woff') format('woff'),
+         url('./fonts/PublicSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Public Sans webfont';
+    src: url('./fonts/PublicSans-Bold.woff2') format('woff2'),
+         url('./fonts/PublicSans-Bold.woff') format('woff'),
+         url('./fonts/PublicSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Public Sans webfont';
+    src: url('./fonts/PublicSans-Italic.woff2') format('woff2'),
+         url('./fonts/PublicSans-Italic.woff') format('woff'),
+         url('./fonts/PublicSans-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
 
 // https://coolors.co/2b2d42-8d99ae-edf2f4-ef233c-d90429
 
@@ -10,8 +35,13 @@ $rl-theme-color-5: #8D99AE;
 $grey-color:       #656565;
 
 body {
-  font-family: 'Roboto', sans-serif;
-  font-size: 1.2em;
+  font-family: 'Public Sans webfont';
+  text-rendering: optimizeLegibility;
+  font-variant-ligatures: common-ligatures;
+  -webkit-font-variant-ligatures: common-ligatures;
+  -webkit-font-feature-settings: "kern";
+	font-feature-settings: "kern";
+	font-kerning: normal;
 }
 
 iframe {
@@ -38,7 +68,6 @@ a {
   padding-top: 2em;
   padding-bottom: 2em;
   margin-bottom: 3em;
-  font-family: 'Lora', serif;
   border-bottom: 0;
   // border-top: 10px solid $rl-theme-color-5;
   border-top: 0;
@@ -48,6 +77,7 @@ a {
 
     a {
       float: none;
+      font-weight: 700;
     }
   }
 
@@ -69,7 +99,7 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Lora', serif;
+  font-weight: 700;
 }
 
 h1.post-title {
