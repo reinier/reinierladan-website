@@ -10,7 +10,7 @@ Wat valt er eigenlijk over mij te vertellen? Misschien probeer ik daar al sinds 
 
 Op [de homepage van deze site](/) valt al te lezen dat ik als freelancer designer en product owner inzetbaar ben en dat ik graag schrijf en podcasts maak. Verder hou ik van boeken lezen, lekker eten (geen vlees) en naar films kijken. Ook ga ik graag golfen en probeer ik het leven te begrijpen.
 
-Als ik ergens wordt gevraagd om [een praatje te geven dan doe ik dat ook graag](/spreker).
+Als ik ergens wordt gevraagd om [een praatje te geven, en het lijkt me een goede match, dan doe ik dat ook met plezier](/spreker).
 
 ## Dingen van andere mensen waar ik achter sta
 
