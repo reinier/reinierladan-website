@@ -1,5 +1,5 @@
 ---
-title:  "Zet jezelf op social media rantsoen met about:blank en Focus"
+title:  "Zet jezelf op social media-rantsoen met about:blank en Focus"
 date:   2019-04-10 16:00:00 +0200
 image: https://reinierladan.nl/assets/focus.jpg
 description: Soms heb je een beetje hulp nodig om van je slechte gewoontes af te komen.
