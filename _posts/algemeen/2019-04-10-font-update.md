@@ -1,6 +1,7 @@
 ---
 title:  "Font update"
 date:   2019-04-10 11:45:00 +0200
+image: https://reinierladan.nl/assets/82procent.jpg
 description: Een nieuw font om Google nog minder informatie te geven
 ---
 
