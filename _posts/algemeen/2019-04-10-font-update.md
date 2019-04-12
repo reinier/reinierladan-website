@@ -9,4 +9,4 @@ Op deze website draai ik geen Google Analytics omdat het niet goed voelt om al j
 
 Tot vandaag gebruikte ik wel [Google Fonts](https://fonts.google.com) om de teksten op deze site van een mooi fontje te voorzien. Ook dat is nu verleden tijd en host ik zelf [het Public Sans font](https://github.com/uswds/public-sans) wat ik er echt heel fijn uit vind zien en wat vrij te gebruiken is. Kadootje uit het [United States Web Design System](https://v2.designsystem.digital.gov).
 
-Zo is de leesbaarheid vergroot en de bijdrage aan het steeds groter worden van Google verkleint.
+Zo is de leesbaarheid vergroot en de bijdrage aan het steeds groter worden van Google verkleind.
