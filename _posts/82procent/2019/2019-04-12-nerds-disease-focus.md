@@ -58,3 +58,11 @@ Hoe moeilijker je het jezelf maakt om aan je slechte gewoontes over te geven des
 **Zelf een oproepje plaatsen?** Voor maar een tientje laat je je oproepje lezen aan _de meer dan 1000 intelligente en geïnteresseerde lezers van de 82% nieuwsbrief_.
 
 🌟 [Plaats een oproepje in een volgende editie](https://forms.82procent.nl)
+
+### Verder nog te tappen
+
+- [Public Sans](https://public-sans.digital.gov/)
+- [I Let a Stranger Watch Me Work for a Day — And I’ve Never Been More Productive](https://melmagazine.com/en-us/story/focusmate-review-productivity-work-hack)
+- [Native image lazy-loading for the web!](https://addyosmani.com/blog/lazy-loading/)
+- [M87 Black Hole Size Comparison](https://xkcd.com/2135/)
+- [58 bytes of css to look great nearly everywhere](https://jrl.ninja/etc/1/)
