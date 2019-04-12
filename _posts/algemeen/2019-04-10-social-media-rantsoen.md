@@ -7,7 +7,7 @@ description: Soms heb je een beetje hulp nodig om van je slechte gewoontes af te
 
 ![Afbeelding met focus](https://reinierladan.nl/assets/focus.jpg)
 
-Op de meest rare tijden, als ik in diepe concentratie aan het werk ben, bekruipt me de behoefte om even op Twitter te kijken. Die behoefte voelt net zo aan als de drang naar een kop koffie. Even uit m’n flow, kopje koffie drinken, en weer verder. Maar dat is best een probleem. Even uit je flow gaan betekend dat je enorm veel energie moet gebruiken om weer terug in je flow te komen, als het er überhaupt nog van komt.
+Op de meest rare tijden, als ik in diepe concentratie aan het werk ben, bekruipt me de behoefte om even op Twitter te kijken. Die behoefte voelt net zo aan als de drang naar een kop koffie. Even uit m’n flow, kopje koffie drinken, en weer verder. Maar dat is best een probleem. Even uit je flow gaan betekent dat je enorm veel energie moet gebruiken om weer terug in je flow te komen, als het er überhaupt nog van komt.
 
 Waar ik met koffie mezelf al een aantal jaar geleden op een rantsoen van twee kopjes per dag heb gezet is dat nog niet voor Twitter gebeurt. Althans, niet op m’n Mac. 
 

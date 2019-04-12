@@ -32,7 +32,7 @@ De les van Steven is 1 op 1 te vertalen in een les over producten en diensten: �
  
 👨‍💻
 
-Op de meest rare tijden, als ik in diepe concentratie aan het werk ben, bekruipt me de behoefte om even op Twitter te kijken. Die behoefte voelt net zo aan als de drang naar een kop koffie. Even uit m’n flow, kopje koffie drinken, en weer verder. Maar dat is best een probleem. Even uit je flow gaan betekend dat je enorm veel energie moet gebruiken om weer terug in je flow te komen, als het er überhaupt nog van komt.
+Op de meest rare tijden, als ik in diepe concentratie aan het werk ben, bekruipt me de behoefte om even op Twitter te kijken. Die behoefte voelt net zo aan als de drang naar een kop koffie. Even uit m’n flow, kopje koffie drinken, en weer verder. Maar dat is best een probleem. Even uit je flow gaan betekent dat je enorm veel energie moet gebruiken om weer terug in je flow te komen, als het er überhaupt nog van komt.
 
 Waar ik met koffie mezelf al een aantal jaar geleden op een rantsoen van twee kopjes per dag heb gezet is dat nog niet voor Twitter gebeurt. Althans, niet op m’n Mac. 
 
@@ -52,7 +52,7 @@ Hoe moeilijker je het jezelf maakt om aan je slechte gewoontes over te geven des
 
 ### Oproepjes
 
-- Ben je nog steeds aan het betalen met je privacy voor je e-mail? Stop daar gewoon mee en betaal voor een [fatsoenlijke e-maildienst zoals Fastmail](https://www.fastmail.com/?STKI=16948328). Super easy in gebruik en je betaald niet met je ziel.
+- Ben je nog steeds aan het betalen met je privacy voor je e-mail? Stop daar gewoon mee en betaal voor een [fatsoenlijke e-maildienst zoals Fastmail](https://www.fastmail.com/?STKI=16948328). Super easy in gebruik en je betaalt niet met je ziel.
 - [Domeinnaam te koop: qs.io](https://qs.io)
 
 **Zelf een oproepje plaatsen?** Voor maar een tientje laat je je oproepje lezen aan _de meer dan 1000 intelligente en geïnteresseerde lezers van de 82% nieuwsbrief_.
