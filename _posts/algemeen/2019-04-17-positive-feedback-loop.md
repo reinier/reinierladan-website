@@ -2,7 +2,7 @@
 title:  "Het probleem met positive feedback loops"
 date: 2019-04-17 15:00 +0200
 image: https://reinierladan.nl/assets/mercedesf1.jpg
-description: Een positieve terugkoppeling is kort gezegd een proces waarin het proces versterkt wordt door de uitkomst van datzelfde proces. En dat pakt niet altijd positief uit.
+description: Een positieve terugkoppeling pakt niet altijd positief uit. Sterker nog, ze kunnen een hoop ellende veroorzaken.
 ---
 
 ![Mercedes Formule1 auto](https://reinierladan.nl/assets/mercedesf1.jpg)
