@@ -1,11 +1,11 @@
 ---
 title:  "Het probleem met positive feedback loops"
 date: 2019-04-17 15:00 +0200
-image: https://reinierladan.nl/assets/redbullf1.jpg
+image: https://reinierladan.nl/assets/mercedesf1.jpg
 description: Een positieve terugkoppeling is kort gezegd een proces waarin het proces versterkt wordt door de uitkomst van datzelfde proces.
 ---
 
-![Red Bull Formule1 auto](https://reinierladan.nl/assets/redbullf1.jpg)
+![Red Bull Formule1 auto](https://reinierladan.nl/assets/mercedesf1.jpg)
 
 Ik leerde erg veel over _positive_ en _negative feedback loops_ (in het Nederlands: positieve/negatieve terugkoppeling) door [deze video over de huidige ‘oneerlijke’ staat van Formule 1](https://youtu.be/QiS_FK9FEz4). Zo besefte ik door de video dat een positieve terugkoppeling niet alleen over positieve dingen gaat. Een positieve terugkoppeling is kort gezegd een proces waarin het proces versterkt wordt door de uitkomst van datzelfde proces. En daar kan de uitkomst best negatief van uitpakken.
 
