@@ -3,6 +3,7 @@ title:  "Ingemaakte zoetzure bloemkool"
 date: 2019-04-19 14:00 +0200
 image: http://reinierladan.nl/assets/bloemkool-zoetzuur.jpg
 description:  Een makkelijke manier om verspilling van voedsel tegen te gaan is door het in te maken. Hier lees je een hele makkelijke en snelle manier om groenten in te maken.
+tags: eten, verspilling 
 ---
 
 ![Bloemkool in zoetzuur in weckpot](http://reinierladan.nl/assets/bloemkool-zoetzuur.jpg)
