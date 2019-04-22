@@ -1,12 +1,12 @@
 ---
 title:  "Ingemaakte zoetzure bloemkool"
 date: 2019-04-19 14:00 +0200
-image: http://reinierladan.nl/assets/bloemkool-zoetzuur.jpg
+image: https://reinierladan.nl/assets/bloemkool-zoetzuur.jpg
 description:  Een makkelijke manier om verspilling van voedsel tegen te gaan is door het in te maken. Hier lees je een hele makkelijke en snelle manier om groenten in te maken.
 tags: eten, verspilling 
 ---
 
-![Bloemkool in zoetzuur in weckpot](http://reinierladan.nl/assets/bloemkool-zoetzuur.jpg)
+![Bloemkool in zoetzuur in weckpot](https://reinierladan.nl/assets/bloemkool-zoetzuur.jpg)
 
 Voedselverspilling is echt doodzonde en daarom ben ik steeds meer op zoek naar manieren om dit te voorkomen. Laatst heb ik bloemkool dat over was zelf ingemaakt in zoetzuur. Hartstikke lekker en echt supereenvoudig. En je hebt altijd bloemkool over want wanneer is zo’n hele kool nou precies genoeg?
 
