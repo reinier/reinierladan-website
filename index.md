@@ -25,3 +25,5 @@ Zo heb ik [de eerste NOS app](/projecten/nos-app) ontworpen, diverse [Publieke O
 Elke week schrijf ik de [82% nieuwsbrief](/82procent-nieuwsbrief/) maar verder deel ik ook graag apptips, inzichten over productiviteit en zelfverbetering en mijmeringen over het leven [op mijn weblog](/blog).
 
 In 2011 startte ik samen met Wietse Hage [de Appels en Peren Show](https://appelsenperenshow.nl), een podcast over technologie, media en cultuur. Vanaf januari 2019 is ook mijn nieuwe podcast [Hoe Krijg Je Het Voor Elkaar?](https://hoekrijgjehetvoorelkaar.nl) te beluisteren waarin ik op zoek ga naar hoe mensen slim en efficiënt kunnen werken.
+
+Wil je dat ik over slim en efficiënt werken kom praten in je organisatie of op je evenement? Of over het maken van een podcast met beperkte middelen? [Ik ben in te huren als spreker over dit soort onderwerpen](/spreker).
