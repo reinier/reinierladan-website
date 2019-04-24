@@ -1,5 +1,5 @@
 ---
-title:  "We zijn met z’n allen 'gedowngrade'"
+title:  "We worden met z’n allen 'gedowngrade'"
 date: 2019-04-24 21:00 +0200
 image: https://reinierladan.nl/assets/human-downgrade.jpg
 description: Tristan Harris is terug en zijn nieuwe boodschap is dat we met z'n allen 'gedowngrade' worden
