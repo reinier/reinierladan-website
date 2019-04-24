@@ -4,4 +4,9 @@ title: Contact
 permalink: /contact/
 ---
 
-Bellen (of een berichtje sturen) kan op **06 2487 2725** en mailen doe je me het beste op **reinier@ladan.email**.
+**Contact via e-mail heeft mijn voorkeur**, zo blijf ik baas over mijn eigen aandacht en tijd. Mocht je nou echt iets heel urgents hebben kun je me wel het beste even bellen.
+
+Schrijf in je e-mail duidelijk waar je voor mailt en wat je van mij verwacht, dan heb je de grootste kans dat ik je na het lezen direct terug mail.
+
+- E-mail: [reinier@ladan.email](mailto:reinier@ladan.email)
+- Bellen, WhatsApp, iMessage, Telegram: 06 2487 2725
