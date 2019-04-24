@@ -212,7 +212,12 @@ a.blog-item {
   background-color: $rl-theme-color-3;
   padding: 1em;
 
-  p, ul {
+  h2, h3, h4 {
+    padding: 0;
+    margin: 0;
+  }
+
+  p:last-child, ul:last-child {
     margin-bottom: 0;
   }
 
@@ -270,7 +275,8 @@ a.blog-item {
   margin-bottom: 3em;
 }
 
-.schenk-kop-koffie {
+.schenk-kop-koffie,
+.call-to-action {
   background-color: $rl-theme-color-1;
   color: #fff;
   display: inline-block;
