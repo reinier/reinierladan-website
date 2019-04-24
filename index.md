@@ -5,6 +5,7 @@ class: page-home
 pagination:
   enabled: true
   category: general
+description: Reinier Ladan is naast freelance ontwerper en product owner ook podcaster, schrijver en bovengemiddeld geïnteresseerd in slim en efficïent werken.
 
 ---
 
