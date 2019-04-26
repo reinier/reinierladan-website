@@ -78,8 +78,8 @@ Je kunt het ongeopend maanden bewaren maar je eigen inzicht qua eetbaarheid is n
 - [The Game You Quit](https://www.youtube.com/watch?v=OeJobV4jJG0)
 - [One Marvelous Scene — Spider-Man: Homecoming](https://www.youtube.com/watch?v=yXSW9JcQnik)
 - [The Sculpture That Looks Like A Real-Life Cartoon](https://www.youtube.com/watch?v=j9JD9W0n7gE)
-- [Chernobyl (2019) | Official Trailer | HBO](https://www.youtube.com/watch?v=s9APLXM9Ei8)
-- [How To Draw Buildings | Architecture Doodles For Beginners](https://www.youtube.com/watch?v=kBWnwLwPMgA)
+- [Chernobyl (2019) • Official Trailer • HBO](https://www.youtube.com/watch?v=s9APLXM9Ei8)
+- [How To Draw Buildings • Architecture Doodles For Beginners](https://www.youtube.com/watch?v=kBWnwLwPMgA)
 
 ### Ga helemaal los in de keuken
 
