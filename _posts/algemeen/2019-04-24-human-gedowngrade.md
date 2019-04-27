@@ -13,7 +13,7 @@ Een aantal mensen in Silicon Valley vinden Tristan en zijn uitspraken een bedrei
 
 > “Tristan sees humans as pawns incapable of managing their own lives. He thinks designers are infinitely powerful and can coerce people to do whatever they want. It is a pure farce.” The executive adds, “I like to imagine Tristan reviewing the latest restaurant. ‘They have clearly intentionally added flavor to this dish to make me want to come back and visit this business again. What scoundrels!’”
 
-Natuurlijk is het zo dat restaurants je zulk lekker eten voorschotelen dat je wilt terugkomen. Je betaald ze hier ook voor. Het wordt echter een probleem als je er niet met geld voor betaald en dus niet weet op welke manier je dan wel voor het eten betaald.
+Natuurlijk is het zo dat restaurants je zulk lekker eten voorschotelen dat je wilt terugkomen. Je betaalt ze hier ook voor. Het wordt echter een probleem als je er niet met geld voor betaalt en dus niet weet op welke manier je dan wel voor het eten betaalt.
 
 Een nog groter probleem wordt het wanneer je dat restaurant in je broekzak zou hebben en je op elk moment van de dag je trek zou kunnen stillen door gratis subliem eten uit je broekzak te toveren. Dat is wat telefoons met je ‘aandachtstrek’ doen en dat doen ze verrekte goed. 
 
