@@ -2,6 +2,9 @@
 layout: page
 title: Freelance bezigheden van Reinier Ladan
 permalink: /freelance/
+image: https://reinierladan.nl/assets/reinier-spreker-small.jpg
+og_type: article
+description: Reinier Ladan is een ervaren en gedreven freelancer die je kunt in zetten als Designer, Design Lead of Product Owner. Pas op: alleen voor leuke en uitdagende klussen in te zetten!
 ---
 
 <div class="highlight">
