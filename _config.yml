@@ -82,6 +82,11 @@ defaults:
       path: _posts/apptips
     values:
       categories: apptips, general
+  -
+    scope:
+      path: _posts/tijdsverspilling
+    values:
+      categories: productivity, general
 
 # Theme settings
 minima:
