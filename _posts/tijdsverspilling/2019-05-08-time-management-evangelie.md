@@ -7,7 +7,7 @@ description: Het gaat bij productief zijn niet om meer dingen gedaan krijgen maa
 
 ![Typemachine](https://reinierladan.nl/assets/messy-desk.jpg)
 
-Adam Grant schreeft het stuk ‘[Productivity Isn’t About Time Management. It’s About Attention Management.](https://www.nytimes.com/2019/03/28/smarter-living/productivity-isnt-about-time-management-its-about-attention-management.html)’ over de misvatting dat productiviteit gaat over _meer_ gedaan krijgen.
+Adam Grant schreef het stuk ‘[Productivity Isn’t About Time Management. It’s About Attention Management.](https://www.nytimes.com/2019/03/28/smarter-living/productivity-isnt-about-time-management-its-about-attention-management.html)’ over de misvatting dat productiviteit gaat over _meer_ gedaan krijgen.
 
 > We live in a culture obsessed with personal productivity. We devour books on getting things done and dream of four-hour workweeks. We worship at the altar of hustle and boast about being busy. The key to getting things done, we’re often told, is time management. If you could just plan your schedule better, you could reach productivity nirvana.
 
