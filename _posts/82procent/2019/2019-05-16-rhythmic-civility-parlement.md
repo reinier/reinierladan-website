@@ -6,7 +6,7 @@ description: "Ga eens heel diep aan het werk, stop gewoon met Facebook en dit is
 
 Hi, Reinier hier,
 
-Vorige week plaatste ik een oproepje een week te vroeg waardoor jullie niet gelijk [de fantastische developers-app Polypane](https://polypane.rocks) konden downloaden. Maar de app is nu echt te downloaden, dus probeer het nog eens. En mocht je je hersens eens lekker aan het werk willen zetten op het snijvlak van design en AI, dan kun je [deze workshop van Josh Clak volgen op 12 juni](https://academy.frozenrockets.nl/workshop/ux-design-for-ml-and-ai-12-june). Ik heb begrepen dat er nog maar een paar plekken over zijn dus wees snel. Ik heb mijn kaartje al op tijd gekocht dus ik ben er bij! 
+Vorige week plaatste ik een oproepje een week te vroeg waardoor jullie niet gelijk [de fantastische developers-app Polypane](https://polypane.rocks) konden downloaden. Maar de app is nu echt te downloaden, dus probeer het nog eens. En mocht je je hersens eens lekker aan het werk willen zetten op het snijvlak van design en AI, dan kun je [deze workshop van Josh Clark volgen op 12 juni](https://academy.frozenrockets.nl/workshop/ux-design-for-ml-and-ai-12-june). Ik heb begrepen dat er nog maar een paar plekken over zijn dus wees snel. Ik heb mijn kaartje al op tijd gekocht dus ik ben er bij! 
 
 👨‍🏫
 
