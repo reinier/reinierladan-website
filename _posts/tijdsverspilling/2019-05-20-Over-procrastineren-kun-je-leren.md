@@ -2,7 +2,7 @@
 title:  "Over procrastineren kun je leren"
 date: 2019-05-20 15:00 +0200
 image: https://reinierladan.nl/assets/iphone-in-use.jpg
-description: Iedereen doet het wel eens: procrastineren. Maar gezond is het niet en rationeel al evenmin.
+description: Iedereen doet het wel eens, procrastineren. Maar gezond is het niet en rationeel al evenmin.
 ---
 
 ![Man gebruikt iphone](https://reinierladan.nl/assets/iphone-in-use.jpg)
