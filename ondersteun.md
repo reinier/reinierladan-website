@@ -4,10 +4,11 @@ title: Ondersteun mijn openbare digitale dingen
 permalink: /ondersteun/
 ---
 
-Wat fijn dat je me wilt ondersteunen bij het maken van digitale dingen zoals podcasts, blogposts en de 82% nieuwsbrief.
+Wat fijn dat je me wilt ondersteunen bij het maken van digitale dingen zoals podcasts, blogposts en de 82% nieuwsbrief. Support me al vanaf €1,- en in minder dan een minuut.
 
 ## Ondersteun me met…
 
+- [Paar stuks fruit (€1,-)](https://bunq.me/paywhatyouwant/1)
 - [Een kop koffie (€3,-)](https://bunq.me/paywhatyouwant/3)
 - [Een lunch (€6,-)](https://bunq.me/paywhatyouwant/6)
 - [Een maand podcasthosting (€10,-)](https://bunq.me/paywhatyouwant/10)
