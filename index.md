@@ -25,4 +25,4 @@ Je kan me [inhuren als spreker](/spreker), dan vertel ik bijvoorbeeld over slim 
 
 ## Reinier Ladan privé
 
-Naast schrijven en het maken van podcasts hou ik van boeken lezen, lekker eten (geen vlees) en naar films kijken. Ook ga ik graag golfen en uiteraard breng ik veel tijd door met mijn vrouw en twee kinderen.
+Naast schrijven en het maken van podcasts hou ik van [boeken lezen](https://www.goodreads.com/user/show/22724505-reinier-ladan), lekker eten (geen vlees) en naar films kijken. Ook ga ik graag golfen en uiteraard breng ik veel tijd door met mijn vrouw en twee kinderen.
