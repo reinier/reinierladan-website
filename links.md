@@ -8,10 +8,10 @@ Een compleet beeld in de vorm van lijstjes met links.
 
 ## Op deze website
 
+- [Homepage met info over Reinier Ladan](/)
 - [Freelance bezigheden](/freelance)
 - [Weblog](/blog)
 - [82% nieuwsbrief](/82procent-nieuwsbrief)
-- [Over mij](/over)
 - [Mijn e-mailbeleid](/emailbeleid)
 - [Mijn bedrijf Digital Energy BV](/digital-energy-bv)
 - [Hoe dit alles te volgen](/hoe-te-volgen)
