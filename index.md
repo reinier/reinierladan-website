@@ -21,7 +21,7 @@ In 2011 startte ik samen met Wietse Hage [de Appels en Peren Show](https://appel
 
 ## Inspirerende spreker
 
-Je kan me [inhuren als spreker](/spreker), dan vertel ik bijvoorbeeld over slim en efficiënt werken of over het maken van een podcast met beperkte middelen. En voor wie app-tips wil ontvangen en op de hoogte wil blijven van de meest actuele inzichten over productiviteit is er [de wekelijkse 82% nieuwsbrief](/82procent).
+Je kan me [inhuren als spreker](/spreker), dan vertel ik bijvoorbeeld over slim en efficiënt werken of over het maken van een podcast met beperkte middelen. En voor wie app-tips wil ontvangen en op de hoogte wil blijven van de meest actuele inzichten over productiviteit is er [de wekelijkse 82% nieuwsbrief](/82procent-nieuwsbrief/).
 
 ## Reinier Ladan privé
 
