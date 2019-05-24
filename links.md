@@ -40,3 +40,11 @@ Een compleet beeld in de vorm van lijstjes met links.
 - [Youtube: Reinier Ladan](https://www.youtube.com/reinierladan)
 - [Github: Reinier Ladan](https://github.com/reinier)
 - [Dribbble: Reinier Ladan](https://dribbble.com/reinier)
+
+## Dingen die me inspireren
+
+- [A day at the park](http://kiriakakis.net/comics/mused/a-day-at-the-park)
+- [Why I create for the web](https://neave.blog/why-i-create-for-the-web-23b16e963d48)
+- [Screw motivation, what you need is discipline.](http://www.wisdomination.com/screw-motivation-what-you-need-is-discipline/)
+- [Goals are for Losers. Passion is Overrated.](https://www.slideshare.net/Scottadams925/goals-are-for-losers-passion-is-overrated)
+- [In Praise of Extreme Moderation](https://hbr.org/2018/06/in-praise-of-extreme-moderation)
