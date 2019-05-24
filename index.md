@@ -9,22 +9,20 @@ description: Reinier Ladan is naast freelance ontwerper en product owner ook pod
 
 ---
 
-<div class="intro"><p>Dit is dé plek waar je alles kunt vinden <a href="/over">over Reinier Ladan</a>. Vanaf nu praat hij niet meer vanuit de derde persoon. Hi!</p></div>
+# Reinier Ladan in 1 minuut
 
-<!-- Snel naar:
+## Freelance
 
-- [Info over mijn freelance bezigheden](/freelance)
-- [Mijn weblog](/blog)
-- [De 82% nieuwsbrief](/82procent-nieuwsbrief) -->
+Als [freelance (interaction/ux) designer en product owner](/freelance) help ik organisaties bij het opstarten en verbeteren van digitale producten en diensten. De afgelopen jaren heb ik onder andere gewerkt voor de NOS, NPO, Sanoma, NLZiet, FOX Sports, NRC en Schiphol. Ik heb de eerste NOS app ontworpen, diverse websites van de Publieke Omroep samengebracht onder NPO.nl en stond ik aan het roer van de Schiphol app.
 
-# Dit ben ik, in 1 minuut
+## Podcasts
 
-Als [freelance designer en product owner](/freelance) help ik organisaties bij het opstarten en verbeteren van digitale producten en diensten. **De afgelopen jaren heb ik onder andere gewerkt voor de NOS, NPO, Sanoma, NLZiet, FOX Sports, NRC en Schiphol.**
+In 2011 startte ik samen met Wietse Hage [de Appels en Peren Show](https://appelsenperenshow.nl), een podcast over technologie, media en cultuur. Het is inmiddels een van de meest succesvolle technologiepodcasts van Nederland met zo’n 20.000 vaste luisteraars en een levendige community. In de podcast [Hoe Krijg Je Het Voor Elkaar?](https://hoekrijgjehetvoorelkaar.nl) zoek ik uit hoe mensen slim en efficiënt kunnen werken.
 
-Zo heb ik [de eerste NOS app](/projecten/nos-app) ontworpen, diverse [Publieke Omroep websites samengebracht onder NPO.nl](/projecten/npo-website) en hielp ik Schiphol als product owner bij [het zelf ontwikkelen van de Schiphol app](/projecten/schiphol-app).
+## Inspirerende spreker
 
-Elke week schrijf ik de [82% nieuwsbrief](/82procent-nieuwsbrief/) maar verder deel ik ook graag apptips, inzichten over productiviteit en zelfverbetering en mijmeringen over het leven [op mijn weblog](/blog).
+Je kan me [inhuren als spreker](/spreker), dan vertel ik bijvoorbeeld over slim en efficiënt werken of over het maken van een podcast met beperkte middelen. En voor wie app-tips wil ontvangen en op de hoogte wil blijven van de meest actuele inzichten over productiviteit is er [de wekelijkse 82% nieuwsbrief](/82procent).
 
-In 2011 startte ik samen met Wietse Hage [de Appels en Peren Show](https://appelsenperenshow.nl), een podcast over technologie, media en cultuur. Vanaf januari 2019 is ook mijn nieuwe podcast [Hoe Krijg Je Het Voor Elkaar?](https://hoekrijgjehetvoorelkaar.nl) te beluisteren waarin ik op zoek ga naar hoe mensen slim en efficiënt kunnen werken.
+## Reinier Ladan privé
 
-Wil je dat ik over slim en efficiënt werken kom praten in je organisatie of op je evenement? Of over het maken van een podcast met beperkte middelen? [Ik ben in te huren als spreker over dit soort onderwerpen](/spreker).
+Naast schrijven en het maken van podcasts hou ik van boeken lezen, lekker eten (geen vlees) en naar films kijken. Ook ga ik graag golfen en uiteraard breng ik veel tijd door met mijn vrouw en twee kinderen.

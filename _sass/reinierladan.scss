@@ -112,7 +112,7 @@ h1.post-title {
 
 h2 {
   margin-top: 2em;
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
 }
 
 h3 {
@@ -290,4 +290,10 @@ a.blog-item {
     text-decoration: none;
     color: #fff;
   }
+}
+
+hr.divider-home {
+  margin: 4em 0;
+  border: 5px solid $rl-theme-color-3;
+  border-radius: 5px;
 }
