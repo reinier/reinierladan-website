@@ -10,7 +10,7 @@ In de nieuwste Appels en Peren Show hebben we het warempel weer eens over crypto
 
 🎧 [167. Optimistisch Rian Bruteforce Wie Ben Ik?](https://appelsenperenshow.nl/aflevering/2019/5/17/167-optimistisch-rian-bruteforce-wie-ben-ik)
 
-En namens de Appels en Peren Show zijn Wietse en ik ook te gast tijdens de live vertoning van [de Apple WWDC Keynote op 4 juni in de bibliotheek van Haarlem](https://www.meetup.com/nl-NL/PermanentBeta/events/261200414/?_xtd=gqFyqDE2ODMxMDcxoXCmaXBob25l&from=ref). Hartstikke leuk natuurlijk en er zijn nog plaatsen vrij!
+En namens de Appels en Peren Show zijn Wietse en ik ook te gast tijdens de live vertoning van [de Apple WWDC Keynote op 3 juni in de bibliotheek van Haarlem](https://www.meetup.com/nl-NL/PermanentBeta/events/261200414/?_xtd=gqFyqDE2ODMxMDcxoXCmaXBob25l&from=ref). Hartstikke leuk natuurlijk en er zijn nog plaatsen vrij!
 
 **Huishoudelijke mededeling:** volgende week slaat de 82% nieuwsbrief een weekje over. Ik ben er weer op 7 juni!
 
