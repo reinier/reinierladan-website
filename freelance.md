@@ -15,7 +15,11 @@ De wereld verandert steeds sneller. Het is noodzakelijk om constant bezig te zij
 
 Neem contact met mij op voor een vrijblijvend gesprek, dan kunnen we kijken of ik kan bijdragen aan de uitdagingen waar jouw organisatie mee te maken heeft.
 
-[Op LinkedIn vind je een vrij gedetailleerd overzicht van mijn kennis en ervaring](https://www.linkedin.com/in/reinierladan/) en ik sta altijd open voor nieuwe connecties.
+<ul class="social-media-list">
+  <li class="linkedin-rl"><a href="https://www.linkedin.com/in/reinierladan" title="LinkedIn Reinier Ladan"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg>Op LinkedIn vind je een vrij gedetailleerd overzicht van mijn kennis en ervaring</a> en ik sta altijd open voor nieuwe connecties.</li>
+</ul>
+
+<!-- [Op LinkedIn vind je een vrij gedetailleerd overzicht van mijn kennis en ervaring](https://www.linkedin.com/in/reinierladan/) en ik sta altijd open voor nieuwe connecties. -->
 
 Als freelancer werkte ik onder andere voor:
 
