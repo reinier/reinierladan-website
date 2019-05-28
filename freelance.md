@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Freelance bezigheden van Reinier Ladan
+title: Freelance designer en product owner Reinier Ladan
 permalink: /freelance/
 image: https://reinierladan.nl/assets/reinier-spreker-small.jpg
 description: "Reinier Ladan is een ervaren en gedreven freelancer die je kunt in zetten als Designer, Design Lead of Product Owner. Pas op: Reinier is alleen voor leuke en uitdagende klussen in te zetten!"
@@ -11,13 +11,17 @@ og_type: article
   <p>Huidige status: <strong>Vanaf maandag 27 mei ben ik weer beschikbaar voor een leuke klus</strong>.</p>
 </div> -->
 
-De wereld is constant aan het veranderen. Sterker nog: de wereld verandert _steeds sneller_. Om hierop in te spelen is het noodzakelijk om constant bezig te zijn met je digitale dienstverlening, of je nou een organisatie met 4 of 40.000 mensen bent. Websites, apps, integraties met andere systemen, noem maar op. Als designer en/of product owner kan ik hier heel goed van pas bij komen. [Op LinkedIn vind je uiteraard een vrij gedetailleerd overzicht van mijn kennis en ervaring](https://www.linkedin.com/in/reinierladan/).
+De wereld verandert steeds sneller. Het is noodzakelijk om constant bezig te zijn met je digitale dienstverlening, hoe klein of groot je organisatie ook is! Websites, apps, integraties met andere systemen… Als (interaction/ux) designer en/of product owner kan ik je hierbij helpen.
 
-Als freelancer heb ik _onder andere_ voor de volgende organisaties mogen werken:
+Neem contact met mij op voor een vrijblijvend gesprek, dan kunnen we kijken of ik kan bijdragen aan de uitdagingen waar jouw organisatie mee te maken heeft.
+
+[Op LinkedIn vind je een vrij gedetailleerd overzicht van mijn kennis en ervaring](https://www.linkedin.com/in/reinierladan/) en ik sta altijd open voor nieuwe connecties.
+
+Als freelancer werkte ik onder andere voor:
 
 **NOS, De Nederlandse Taalunie, NPO, RTL, Adformatie, Sanoma, KNSB, NRC, Infostrada, FOX Sports, NLZiet, Schiphol en Liberty Global.**
 
-Een paar projecten wil ik graag uitlichten om zo te laten zien waar mijn expertise ligt.
+## Projecten uitgelicht
 
 - [De eerste NOS app](/projecten/nos-app)
 - [Alles bij elkaar onder NPO.nl](/projecten/npo-website)
@@ -26,4 +30,4 @@ Een paar projecten wil ik graag uitlichten om zo te laten zien waar mijn experti
 
 <hr class="divider">
 
-De zakelijke entitieit waaronder ik mijn werkzaamheden uitvoer heet [Digital Energy BV](/digital-energy-bv).
+Bij de Kamer van Koophandel sta ik ingeschreven onder de bedrijfsnaam [Digital Energy BV](/digital-energy-bv).
