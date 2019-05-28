@@ -312,3 +312,18 @@ hr.divider {
   margin-right: 5px;
   fill: $rl-theme-color-1;
 }
+
+.opdrachtgevers a {
+  text-decoration: none;
+  color: $rl-theme-color-1;
+
+  &:visited {
+    color: $rl-theme-color-1;
+    text-decoration: none;
+  }
+
+  &:hover {
+    text-decoration: underline;
+    color: $rl-theme-color-2;
+  }
+}
