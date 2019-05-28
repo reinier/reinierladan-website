@@ -3,13 +3,13 @@ layout: page
 permalink: /projecten/schiphol-app
 ---
 
-[← terug naar informatie over de freelance bezigheden van Reinier Ladan](/freelance)
+← [freelance bezigheden van Reinier Ladan](/freelance)
 
-# Schiphol op eigen benen met de Schiphol App
+# Freelance project: Schiphol op eigen benen met de Schiphol App
 
 ![Een voorbeeld van de flow in de NLZiet app](/assets/schiphol-app-store.jpg)
 
-Ik heb bij Schiphol echt heel veel geleerd en een hoop mooie projecten mogen uitvoeren. Een van de mooiste was wel het opzetten van een multidisciplinair team waarmee we [de Schiphol app](https://schiphol.nl/app) intern bij Schiphol opnieuw gingen ontwerpen en bouwen. Als product owner had ik de verantwoordelijkheid over de visie en strategie van de app en de dagelijkse prioriteit van het backlog. In een zeer krappe tijd hebben we de app vanaf de grond af aan opgebouwd en een supermooi resultaat neergezet.
+Bij Schiphol heb ik een hoop mooie projecten mogen uitvoeren. Een van de mooiste was het samenstellen van een multidisciplinair team waarmee [de Schiphol app](https://schiphol.nl/app) intern bij Schiphol nieuw leven ingeblazen werd. Als product owner had ik de verantwoordelijkheid over de visie en strategie van de app, de dagelijkse prioriteit van het backlog en het opzetten van een compleet nieuw team. In een zeer krappe tijd hebben we als team de app vanaf de grond af aan ontworpen, gebouwd en gepubliceerd. Dit naar tevredenheid van de eindgebruiker én Schiphol.
 
 ![Een voorbeeld van de flow in de NLZiet app](/assets/schiphol-play-store.jpg)
 

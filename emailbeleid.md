@@ -11,7 +11,7 @@ permalink: /emailbeleid/
 - E-mail sturen: De hele dag door
 - **Direct in contact komen? SMS dan (of in het uiterste geval, bellen).**
 
------
+<hr class="divider">
 
 ## E-mail lezen
 
