@@ -1,8 +1,8 @@
 ---
-title:  "Fuck de feiten"
+title: "Fuck de feiten"
 date: 2019-05-31 10:30 +0200
 image: https://reinierladan.nl/assets/facts.jpg
-description: 'Fuck de feiten' laat heel fijn zien wat er mis is met de retoriek én de persoonlijkheid van Baudet.
+description: Fuck de feiten laat heel fijn zien wat er mis is met de retoriek én de persoonlijkheid van Baudet.
 ---
 
 ![Rugtas met button 'facts matter'](https://reinierladan.nl/assets/facts.jpg)
