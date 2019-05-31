@@ -86,7 +86,12 @@ defaults:
     scope:
       path: _posts/tijdsverspilling
     values:
-      categories: productivity, general
+      categories: productiviteit, general
+  -
+    scope:
+      path: _posts/politiek
+    values:
+      categories: politiek, general
 
 # Theme settings
 minima:
