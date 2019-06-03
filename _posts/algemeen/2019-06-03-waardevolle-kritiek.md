@@ -1,5 +1,5 @@
 ---
-title:  "Geef en krijg waardevolle kritiek op gemaakt werk"
+title:  "Geef en krijg waardevolle kritiek zoals scriptschrijvers dat doen"
 date: 2019-06-03 12:30 +0200
 image: https://reinierladan.nl/assets/clap-board.jpg
 description: Je kunt vaak waardevolle lessen halen door dezelfde soort problemen op te zoeken in andere vakgebieden.
