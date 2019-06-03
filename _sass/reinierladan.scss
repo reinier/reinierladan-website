@@ -135,7 +135,8 @@ ul li {
 }
 
 .post-content {
-  border-bottom: 1px solid #999;
+  border-bottom: 5px solid $rl-theme-color-3;
+  border-radius: 5px;
   padding-bottom: 3em;
   margin-bottom: 4em;
 }
