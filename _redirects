@@ -1,6 +1,7 @@
 # Feeds
 /feed/ /feed/index.xml 301!
 /onderwerpen/nieuwsbrief/feed/ /onderwerpen/nieuwsbrief/feed.xml 301!
+/owned2019/ /2019/06/06/medicijn-tegen-tijdsverspilling 301!
 
 # Redirect domain aliases to primary domain
 
