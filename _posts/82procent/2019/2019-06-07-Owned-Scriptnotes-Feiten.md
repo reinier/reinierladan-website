@@ -46,7 +46,7 @@ Het stuk laat heel fijn zien wat er mis is met de retoriek én de persoonlijkhei
 
 - [This page is a truly naked, brutalist html quine.](https://secretgeek.github.io/html_wysiwyg/html.html)
 - [Apple’s Audacity](https://stratechery.com/2019/apples-audacity/)
-- [DDay 75 – In Color | June 6, 1944](https://marinamaral.com/2019/06/d-day-in-color/)
+- [DDay 75 – In Color. June 6, 1944](https://marinamaral.com/2019/06/d-day-in-color/)
 - [iPadOS: The MacStories Overview](https://www.macstories.net/news/ipados-the-macstories-overview/)
 - [Learn how to tie knots with step-by-step animation](https://www.animatedknots.com/)
 - [The Dark Side of Dark Mode](https://tidbits.com/2019/05/31/the-dark-side-of-dark-mode/)
