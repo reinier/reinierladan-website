@@ -9,7 +9,7 @@ Hi, Reinier hier,
 
 ![Reinier aan het presenteren](https://reinierladan.nl/assets/owned-2019.jpg)
 
-Gisteren mocht ik een presentatie geven bij [de product owner meetup Owned](https://www.meetup.com/nl-NL/OwnedNL/events/259907640/) over mijn methode om tijdsverspilling tegen te gaan. [Tips, slides en links heb ik verzameld in deze blogpost](https://reinierladan.nl/2019/06/06/medicijn-tegen-tijdsverspilling). Het was erg leuk en ik ben beschikbaar om [deze presentatie vaker te geven](https://reinierladan.nl/spreker/).
+Woensdag mocht ik een presentatie geven bij [de product owner meetup Owned](https://www.meetup.com/nl-NL/OwnedNL/events/259907640/) over mijn methode om tijdsverspilling tegen te gaan. [Tips, slides en links heb ik verzameld in deze blogpost](https://reinierladan.nl/2019/06/06/medicijn-tegen-tijdsverspilling). Het was erg leuk en ik ben beschikbaar om [deze presentatie vaker te geven](https://reinierladan.nl/spreker/).
 
 👨‍💻
 
