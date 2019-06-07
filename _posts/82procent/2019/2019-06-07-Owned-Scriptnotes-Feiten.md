@@ -1,6 +1,6 @@
 ---
 title:  "Owned Scriptnotes Feiten"
-image: https://reinierladan.nl/assets/82procent.jpg
+image: https://reinierladan.nl/assets/owned-2019.jpg
 description: "Een presentatie over een medicijn tegen tijdsverspilling, hoe om te gaan met feedback op je werk en pleidooi tegen het fucken met feiten."
 date: 2019-06-07 09:00 +0200
 ---
