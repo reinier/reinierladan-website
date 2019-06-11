@@ -1,5 +1,5 @@
 ---
-title:  "Pillen als verdienmodel is een ziekte"
+title:  "Marktwerking is een ziekte in de farmaceutische industrie"
 date: 2019-06-11 14:00 +0200
 image: https://reinierladan.nl/assets/medicine.jpg
 description: Goede pillen genezen mensen, maar aan mensen die genezen zijn, kan je geen pillen meer slijten.
