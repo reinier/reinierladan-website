@@ -15,4 +15,4 @@ Ruben neemt je in het artikel ook mee naar 1957 toen op een conferentie van de A
 
 > Goede pillen genezen mensen, maar aan mensen die genezen zijn, kan je geen pillen meer slijten. Hoe succesvoller je bent, hoe minder je kan verkopen. En dus moest volgens Mottley de industrie op zoek naar een nieuw verdienmodel.
 
-Marktwerking is een ziekte in de gezondheidszorg. **Het doel van gezondheidszorg moet niet 'het verdienmodel' zijn, het moet 'mensen genezen' zijn.** In een mooiere wereld had de conclusie van Mottley absurder geklonken dan het nu doet.
+Marktwerking is een ziekte in de farmaceutische industrie. **Het doel de farmaceutische industrie moet niet 'het verdienmodel' zijn, het moet 'mensen genezen' zijn.** In een mooiere wereld had de conclusie van Mottley absurder geklonken dan het nu doet.
