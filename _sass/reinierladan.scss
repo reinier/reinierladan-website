@@ -44,6 +44,11 @@ body {
   -webkit-font-feature-settings: "kern";
 	font-feature-settings: "kern";
 	font-kerning: normal;
+  background: #fff url("/assets/bg-reinierladan-white.svg") no-repeat center -230px / 1440px 588px;
+}
+
+body.page-home {
+  background: #fff url("/assets/bg-reinierladan-white.svg") no-repeat center -130px / 1440px 588px;
 }
 
 iframe {
@@ -66,10 +71,9 @@ a {
 
 .site-header {
   // background-color: $rl-theme-color-1;
-  background: $rl-theme-color-1 url("/assets/bg-reinierladan.svg") no-repeat center / 1440px 588px;
   padding-top: 2em;
   padding-bottom: 2em;
-  margin-bottom: 3em;
+  margin-bottom: 4em;
   border-bottom: 0;
   // border-top: 10px solid $rl-theme-color-5;
   border-top: 0;
@@ -87,7 +91,7 @@ a {
   .site-title,
   .site-title:visited,
   .site-nav .page-link {
-    color: $rl-theme-color-3;
+    color: $rl-theme-color-4;
   }
 }
 
@@ -214,6 +218,7 @@ a.blog-item {
   border: 3px solid $rl-theme-color-5;
   background-color: $rl-theme-color-3;
   padding: 1em;
+  border-radius: 3px;
 
   h2, h3, h4 {
     padding: 0;
@@ -240,6 +245,7 @@ a.blog-item {
   border: 3px solid $rl-theme-color-5;
   background-color: $rl-theme-color-3;
   padding: 1em;
+  border-radius: 3px;
 }
 
 #bd-email {
@@ -291,6 +297,13 @@ a.blog-item {
     text-decoration: none;
     color: #fff;
   }
+}
+
+.call-to-action.secundary,
+.schenk-kop-koffie.secundary {
+  border: 2px solid $rl-theme-color-1;
+  background-color: #fff;
+  color: $rl-theme-color-4;
 }
 
 hr.divider {
