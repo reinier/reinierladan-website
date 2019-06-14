@@ -1,5 +1,5 @@
 ---
-title:  "82% Mediadieet #1"
+title:  "Mediadieet #1"
 image: https://reinierladan.nl/assets/82procent.jpg
 description: "Mijn mediadieet van de afgfelopen maanden. Boeken, films, tv-series en meer."
 date: 2019-06-14 09:30 +0200
