@@ -16,8 +16,8 @@ Wat fijn dat je me wilt ondersteunen bij het maken van digitale dingen zoals pod
 
 ## Waarom ondersteuning?
 
-- Je vind het fijn dat ik mensen probeer wakker te schudden over telefoonverslaving en tijdsverspilling
-- Je vind het fijn dat ik diverse podcasts maak waaronder de Appels en Peren Show en de Hoe Krijg Je Het Voor Elkaar podcast
-- Je vind het fijn dat ik een wekelijkse nieuwsbrief schrijf met interessante zaken
+- Je vindt het fijn dat ik mensen probeer wakker te schudden over telefoonverslaving en tijdsverspilling
+- Je vindt het fijn dat ik diverse podcasts maak waaronder de Appels en Peren Show en de Hoe Krijg Je Het Voor Elkaar podcast
+- Je vindt het fijn dat ik een wekelijkse nieuwsbrief schrijf met interessante zaken
 
 Ik geloof in de kracht van het publiek en openbaar maken van mijn gedachten, ideeën, tips en bevindingen. En ik geloof in dit verband ook heel erg in het '[pay what you want](https://en.wikipedia.org/wiki/Pay_what_you_want)' model. Daarom mag je zelf weten of je wat wilt doneren en vervolgens hoeveel. Uiteraard verdien ik ook geld [als freelancer](/freelance) maar het zou fijn zijn als ik break-even kan draaien met mijn openbare digitale uitspattingen en daar nog meer tijd aan kan besteden.
