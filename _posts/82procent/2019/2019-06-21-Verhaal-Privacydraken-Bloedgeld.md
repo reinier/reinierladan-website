@@ -7,9 +7,9 @@ date: 2019-06-21 08:00 +0200
 
 Hi, Reinier hier,
 
-Afgelopen weekend las ik het boek [Hoe Gaan We Dit Uitleggen?](https://www.goodreads.com/book/show/45168480-hoe-gaan-we-dit-uitleggen) van Jelmer Mommers over de klimaatramp waar we met z’n allen inzitten. Er liggen zoveel kansen voor de overheid, organisaties en wij als individuen dat we bijna keuzestress zouden moeten krijgen van de mogelijkheden om [het tij](https://www.washingtonpost.com/weather/2019/06/14/arctic-ocean-greenland-ice-sheet-have-seen-record-june-ice-loss/) te keren. Het boek heeft me doen inzien dat de beweging in positieve richting steeds groter wordt en dat deedt me goed. Zo wonen we hopelijk over een tiental jaar [allemaal in The Shire](https://www.vice.com/en_us/article/vbngmd/decentralized-microgridding-can-provide-90-of-a-neighborhoods-energy-needs-study-finds?fbclid=IwAR0_yRAmZuvLpfmhEGJDS49yhHja84pUNQyVxwasbvozdu6V8Wiqgdql0Tg).
+Afgelopen weekend las ik het boek [Hoe Gaan We Dit Uitleggen?](https://www.goodreads.com/book/show/45168480-hoe-gaan-we-dit-uitleggen) van Jelmer Mommers over de klimaatramp waar we met z’n allen inzitten. Er liggen zoveel kansen voor de overheid, organisaties en wij als individuen dat we bijna keuzestress zouden moeten krijgen van de mogelijkheden om [het tij](https://www.washingtonpost.com/weather/2019/06/14/arctic-ocean-greenland-ice-sheet-have-seen-record-june-ice-loss/) te keren. Het boek heeft me doen inzien dat de beweging in positieve richting steeds groter wordt en dat deed me goed. Zo wonen we hopelijk over een tiental jaar [allemaal in The Shire](https://www.vice.com/en_us/article/vbngmd/decentralized-microgridding-can-provide-90-of-a-neighborhoods-energy-needs-study-finds?fbclid=IwAR0_yRAmZuvLpfmhEGJDS49yhHja84pUNQyVxwasbvozdu6V8Wiqgdql0Tg).
 
-Iets anders dat me goed deedt: [deze video over hoe een ‘standaard’ verhaal in elkaar zit](https://youtu.be/oP3c1h8v2ZQ). Uiteraard zijn er uitzonderingen maar toch kun je zo’n 82% van alle verhalen op dat stramien plotten. De video werd vertoond in [de presentatie van Steph Troeth op CSS Day 2019](https://youtu.be/bpVBwmW4dWk) over de kracht van verhalen. Mijn take-away uit die presentatie: _verpak informatie in een verhaal en mensen kunnen het veel beter onthouden_.
+Iets anders dat me goed deed: [deze video over hoe een ‘standaard’ verhaal in elkaar zit](https://youtu.be/oP3c1h8v2ZQ). Uiteraard zijn er uitzonderingen maar toch kun je zo’n 82% van alle verhalen op dat stramien plotten. De video werd vertoond in [de presentatie van Steph Troeth op CSS Day 2019](https://youtu.be/bpVBwmW4dWk) over de kracht van verhalen. Mijn take-away uit die presentatie: _verpak informatie in een verhaal en mensen kunnen het veel beter onthouden_.
 
 Dat heb ik nog niet heel praktisch toegepast in de nieuwste Appels en Peren Show maar dat kun je zelf beoordelen door ‘m te luisteren: [40 Kilobyte destijds That Bohn Song](https://appelsenperenshow.nl/aflevering/2019/6/19/168-40-kilobyte-destijds-that-bohn-song).
 
@@ -25,7 +25,7 @@ Het hele stuk kon ik alleen maar ja knikken. Het lezen meer dan waard dus.
 
 [Artikel ‘Bloedgeld’ in Quote](https://blendle.com/shared/eyJuIjoiUmVpbmllciIsImEiOiJibmwtcXVvdGUtMjAxOTA2MTgtZjc4NTQzMTEyZjAiLCJ1IjoiMTdmNjY5ZjgtZWEwYy00ODMxLTg0MDktNzYxZTQ1NGIyZmNiIn0.qgrHVaXcPk2Z_iw7M_41mhf5eVWlLk7HF5YqKscBI3w) (Blendle link, eerste zoveel kliks zijn gratis):
 
-> Veel dierenvreugde is er dus niet te vinden in de rijkenlijst. Vrijwel alle dierenhandelaren zagen hun vermogen in 2017 lekker stijgen, maar uit onze inventarisatie blijkt dat het welzijn van hun dieren niet steeg. 
+> Veel dierenvreugde is er dus niet te vinden in de rijkenlijst. Vrijwel alle dierenhandelaren zagen hun vermogen in 2017 lekker stijgen, maar uit onze inventarisatie blijkt dat het welzijn van hun dieren niet steeg.
 
 Er staan heel wat bedrijven uit de vleesindustrie in de Quote 500 en de Quote vond het wel een goed idee om eens in het dierenwelzijn van deze miljoenenbedrijven te duiken. Maar wat blijkt (je verwacht het niet…), geld is nog altijd véél belangrijker dan een kleine investering in dierenwelzijn.
 
