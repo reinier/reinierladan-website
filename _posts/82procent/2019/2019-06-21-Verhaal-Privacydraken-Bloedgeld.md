@@ -1,6 +1,6 @@
 ---
 title:  "Verhaal Privacydraken Bloedgeld"
-image: https://reinierladan.nl/assets/owned-2019.jpg
+image: https://reinierladan.nl/assets/82-verhaal-privacydraken-bloedgeld.jpg
 description: "Jelmer Mommers en z'n klimaatramp, wat te doen met vlees eten en de privacydraken Google en Facebook"
 date: 2019-06-21 08:00 +0200
 ---
