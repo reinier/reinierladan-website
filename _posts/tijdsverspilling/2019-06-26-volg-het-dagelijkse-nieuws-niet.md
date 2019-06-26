@@ -21,6 +21,6 @@ Het volgen van nieuws dat 'incident-overstijgend' is doe ik op de volgende manie
 - Specifieke dagelijkse podcasts zoals [The Daily](https://www.nytimes.com/column/the-daily) en [NRC Vandaag](https://www.nrc.nl/rubriek/podcast-vandaag/). Ik luister ze niet allemaal, ik pik er de interessante onderwerpen uit.
 - Nieuwsbrieven over specifieke onderwerpen via bijvoorbeeld [De Correspondent](https://decorrespondent.nl).
 - [Blendle](https://blendle.nl). Daar weten ze namelijk de grote lijnen van het nieuws voor me uiteen te zetten in hapbare brokken.
-- [Twitter](https://twitter.com). Als er echt iets belangrijks gebeurt dan weet mijn Twitter-ecosysteem het wel in mijn gezicht te duwen, daar hoef ik verder niks voor te doen.
+- [Twitter](https://twitter.com). Als er echt iets belangrijks gebeurt dan weet mijn Twitter-ecosysteem het wel in mijn gezicht te duwen, daar hoef ik verder niks voor te doen. En ik volg een aantal journalisten waarvan ik wel alles wil lezen (bijvoorbeeld [@schellevis](https://twitter.com/schellevis) en [@danielverlaan](https://twitter.com/danielverlaan))
 
 Dit doe ik nu al een aantal jaar zo en het bevalt me prima. Zelfs [de Guardian wil je met 10 overtuigende inzichten overtuigen van dit feit](https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli), dus waar wacht je nog op?
