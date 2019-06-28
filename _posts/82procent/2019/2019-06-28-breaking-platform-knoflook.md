@@ -9,7 +9,7 @@ Hi, Reinier hier,
 
 Dit is even de laatste nieuwsbrief deze zomer. Zoals elk jaar grijp ik deze periode aan om mijn informatieverslaving wat minder te voeden. Veel minder Twitter, geen RSS, minder podcasts en dus ook minder te vertellen in de nieuwsbrief. 
 
-Maar om je een beetje de zomer door te helpen een dubbeldikke editie!
+Maar om je een beetje de zomer door te helpen een dubbeldikke editie. Tot in september!
 
 🎞
 
