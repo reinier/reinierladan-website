@@ -2,8 +2,10 @@
 layout: page
 title: About <span class="nowrap">Reinier Ladan</span>
 permalink: /english/
+image: https://reinierladan.nl/assets/reinier-profile-2019.jpg
 og_type: article
 class: page-english
+description: "My ikigai is creating excellent user experiences by management, design and even development work. I've been doing that since the '90s so I've got 20+ years of experience in this field. Since 2016 I've focussed all my time and energy on product management."
 ---
 
 <p class="reinier-profile-pic">
