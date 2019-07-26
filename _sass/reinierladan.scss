@@ -81,9 +81,13 @@ a {
   .wrapper {
     text-align: center;
 
-    a {
+    a.site-title {
       float: none;
       font-weight: 700;
+      text-decoration: none;
+      background: -webkit-linear-gradient($rl-theme-color-4, $rl-theme-color-2);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
     }
   }
 
@@ -181,9 +185,10 @@ nav.site-nav {
   padding: 10px 20px;
   font-size: 0.80em;
 
-  .page-link {
-    color: $rl-theme-color-1;
-  }
+  // a.page-link {
+  //   font-weight: normal;
+  //   text-decoration: underline;
+  // }
 }
 
 .intro {
