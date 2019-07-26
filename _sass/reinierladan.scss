@@ -89,8 +89,7 @@ a {
 
   a,
   .site-title,
-  .site-title:visited,
-  .site-nav .page-link {
+  .site-title:visited {
     color: $rl-theme-color-4;
   }
 }
@@ -161,9 +160,18 @@ ul li {
 }
 
 nav.site-nav {
-  display: none;
-  // top: 38px;
-  // right: 22px;
+  background-color: rgba(255, 255, 255, 0.9);
+  position: absolute;
+  top: 0;
+  right: 0;
+  float: none;
+  line-height: normal;
+  padding: 10px 20px;
+  font-size: 0.80em;
+
+  .page-link {
+    color: $rl-theme-color-1;
+  }
 }
 
 .intro {

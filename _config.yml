@@ -31,9 +31,10 @@ theme: minima
 
 permalink:  /:year/:month/:day/:title
 
-header_pages:
-- over.md
-- contact.md
+# header_pages:
+# - blog.md
+# - overzicht.md
+# - english.md
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
