@@ -71,9 +71,9 @@ a {
 
 .site-header {
   // background-color: $rl-theme-color-1;
-  padding-top: 2em;
-  padding-bottom: 2em;
-  margin-bottom: 4em;
+  padding-top: 3.5em;
+  // padding-bottom: 2em;
+  margin-bottom: 5.5em;
   border-bottom: 0;
   // border-top: 10px solid $rl-theme-color-5;
   border-top: 0;
@@ -98,8 +98,20 @@ a {
   .site-header {
 
     padding-top: 6em;
-    padding-bottom: 6em;
+    padding-bottom: 2em;
 
+  }
+
+  h1 {
+    // Visually hidden from view
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    clip: rect(0 0 0 0);
+    overflow: hidden;
   }
 }
 
@@ -347,5 +359,37 @@ hr.divider {
   &:hover {
     text-decoration: underline;
     color: $rl-theme-color-2;
+  }
+}
+
+.reinier-profile-pic {
+  text-align: center;
+  margin-bottom: 1.5em;
+  img.img-circle {
+    border-radius: 50%;
+  }
+}
+
+.page-english .post-header {
+  text-align: center;
+}
+
+.nowrap {
+    white-space: nowrap;
+}
+
+.remark-about-english-page {
+  position: absolute;
+  top: 0;
+  left: 0;
+  max-width: 50%;
+  font-size: 0.8em;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 10px 20px;
+  float: none;
+  line-height: normal;
+
+  a {
+    color: $rl-theme-color-1;
   }
 }

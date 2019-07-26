@@ -10,7 +10,11 @@ description: Reinier Ladan is naast freelance ontwerper en product owner ook pod
 
 ---
 
-# Reinier Ladan in 1 minuut
+# Alles over Reinier Ladan
+
+<p class="reinier-profile-pic">
+  <img src="/assets/reinier-profile-2019.jpg" class="img-circle" alt="Foto van Reinier Ladan" width="250">
+</p>
 
 ## Freelance
 
