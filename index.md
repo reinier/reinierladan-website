@@ -18,7 +18,27 @@ description: Reinier Ladan is naast freelance ontwerper en product owner ook pod
 
 ## Freelance
 
-Als [freelance (interaction/ux) designer en product owner](/freelance) help ik organisaties bij het opstarten en verbeteren van digitale producten en diensten. De afgelopen jaren heb ik onder andere gewerkt voor de NOS, NPO, Sanoma, NLZiet, FOX Sports, NRC, Liberty Global, Schiphol en Funda. Ik heb de eerste NOS app ontworpen, diverse websites van de Publieke Omroep samengebracht onder NPO.nl en stond ik aan het roer van de vernieuwde Schiphol app.
+Als **freelance product owner** en (interaction/ux) designer help ik organisaties bij het opstarten en verbeteren van digitale producten en diensten. De afgelopen jaren heb ik dat als freelancer onder andere gedaan voor de NOS, NPO, NRC, Schiphol en Funda. Zo heb ik de eerste NOS app ontworpen, diverse websites van de Publieke Omroep samengebracht onder NPO.nl en stond ik aan het roer van de vernieuwde Schiphol app.
+
+<div class="client-logos">
+  <p>
+    <img src="/assets/client-logos/nos-client-logo.png" alt="Logo NOS" width="75">
+    <img src="/assets/client-logos/npo-client-logo.png" alt="Logo NPO" width="75">
+    <img src="/assets/client-logos/nrc-client-logo.png" alt="Logo NRC" width="75">
+    <img src="/assets/client-logos/taalunie-client-logo.png" alt="Logo Nederlandse Taalunie" width="75">
+    <img src="/assets/client-logos/foxsports-client-logo.png" alt="Logo FOX Sports" width="75">
+    <img src="/assets/client-logos/adformatie-client-logo.png" alt="Logo Adformatie" width="75">
+    <img src="/assets/client-logos/knsb-client-logo.png" alt="Logo KNSB" width="75">
+    <img src="/assets/client-logos/rtl-client-logo.png" alt="Logo RTL Nederland" width="75">
+    <img src="/assets/client-logos/nlziet-client-logo.png" alt="Logo NLZiet" width="75">
+    <!-- <img src="/assets/client-logos/sanoma-client-logo.png" alt="Logo Sanoma" width="75"> -->
+    <img src="/assets/client-logos/lg-client-logo.png" alt="Logo Liberty GLobal" width="75">
+    <img src="/assets/client-logos/schiphol-client-logo.png" alt="Logo Schiphol" width="75">
+    <img src="/assets/client-logos/funda-client-logo.png" alt="Logo Funda" width="75">
+  </p>
+</div>
+
+<a href="/freelance">Alles over mijn freelance <span class="nowrap">bezigheden →</span></a>
 
 ## Podcasts
 
