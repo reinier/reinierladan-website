@@ -12,7 +12,7 @@ description: "My ikigai is creating excellent user experiences by management, de
   <img src="/assets/reinier-profile-2019.jpg" class="img-circle" alt="Picture of Reinier Ladan" width="250">
 </p>
 
-My [ikigai](https://en.wikipedia.org/wiki/Ikigai) is creating excellent digital products by managing a product team, designing user interfaces, and even developing prototypes. I've been doing that since the '90s, so I've got more than 20 years of experience in this field. Since 2016 I've focused all my time and energy on product management.
+My [ikigai](https://en.wikipedia.org/wiki/Ikigai) is creating excellent digital products by managing product teams, designing user interfaces, and even developing prototypes. I've been doing that since the '90s, so I've got more than 20 years of experience in this field. Since 2016 I've focused all my time and energy on product management.
 
 <ul class="social-media-list">
   <li class="linkedin-rl"><a href="https://www.linkedin.com/in/reinierladan" title="LinkedIn Reinier Ladan"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg>Feel free to connect on LinkedIn</a>! I'm always open for new connections and opportunities.</li>
