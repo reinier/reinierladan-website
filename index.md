@@ -18,7 +18,7 @@ description: Reinier Ladan is naast freelance ontwerper en product owner ook pod
 
 ## Freelance
 
-Als [freelance (interaction/ux) designer en product owner](/freelance) help ik organisaties bij het opstarten en verbeteren van digitale producten en diensten. De afgelopen jaren heb ik onder andere gewerkt voor de NOS, NPO, Sanoma, NLZiet, FOX Sports, NRC en Schiphol. Ik heb de eerste NOS app ontworpen, diverse websites van de Publieke Omroep samengebracht onder NPO.nl en stond ik aan het roer van de Schiphol app.
+Als [freelance (interaction/ux) designer en product owner](/freelance) help ik organisaties bij het opstarten en verbeteren van digitale producten en diensten. De afgelopen jaren heb ik onder andere gewerkt voor de NOS, NPO, Sanoma, NLZiet, FOX Sports, NRC, Liberty Global, Schiphol en Funda. Ik heb de eerste NOS app ontworpen, diverse websites van de Publieke Omroep samengebracht onder NPO.nl en stond ik aan het roer van de vernieuwde Schiphol app.
 
 ## Podcasts
 
