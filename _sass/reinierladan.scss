@@ -352,21 +352,6 @@ hr.divider {
   fill: $rl-theme-color-1;
 }
 
-.opdrachtgevers a {
-  text-decoration: none;
-  color: $rl-theme-color-1;
-
-  &:visited {
-    color: $rl-theme-color-1;
-    text-decoration: none;
-  }
-
-  &:hover {
-    text-decoration: underline;
-    color: $rl-theme-color-2;
-  }
-}
-
 .reinier-profile-pic {
   text-align: center;
   margin-bottom: 1.5em;
@@ -399,9 +384,13 @@ hr.divider {
   }
 }
 
+.page-english .remark-about-english-page {
+  display: none;
+}
+
 .client-logos {
     padding-top: 1em;
-    background-color: #efefef;
+    background-color: $rl-theme-color-5;
     border-radius: 18px;
 }
 
