@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Freelance designer en product owner Reinier Ladan
+title: Freelance product owner Reinier Ladan
 permalink: /freelance/
 image: https://reinierladan.nl/assets/reinier-spreker-small.jpg
-description: "Reinier Ladan is een ervaren en gedreven freelancer die je kunt in zetten als Designer, Design Lead of Product Owner. Pas op: Reinier is alleen voor leuke en uitdagende klussen in te zetten!"
+description: "Reinier Ladan is een ervaren en gedreven freelancer die je kunt in zetten als product owner of design manager."
 og_type: article
 ---
 
@@ -11,7 +11,7 @@ og_type: article
   <p>Huidige status: <strong>Vanaf maandag 27 mei ben ik weer beschikbaar voor een leuke klus</strong>.</p>
 </div> -->
 
-De wereld verandert steeds sneller. Het is noodzakelijk om constant bezig te zijn met je digitale dienstverlening, hoe klein of groot je organisatie ook is! Websites, apps, integraties met andere systemen, experimenteren met nieuwe media zoals podcasts, VR en AR, het helpt allemaal om je klanten te bereiken.
+Als **freelance product owner** en (interaction/ux) designer help ik organisaties bij het opstarten en verbeteren van digitale producten en diensten. De afgelopen jaren heb ik dat als freelancer onder andere gedaan voor de NOS, NPO, NRC, Schiphol en Funda. Zo heb ik de eerste NOS app ontworpen, diverse websites van de Publieke Omroep samengebracht onder NPO.nl en stond ik aan het roer van de vernieuwde Schiphol app.
 
 <ul class="social-media-list">
   <li class="linkedin-rl"><a href="https://www.linkedin.com/in/reinierladan" title="LinkedIn Reinier Ladan"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg>Op LinkedIn vind je een vrij gedetailleerd overzicht van mijn kennis en ervaring</a> en ik sta altijd open voor nieuwe connecties.</li>
@@ -36,8 +36,6 @@ Een greep uit de opdrachtgevers waar ik freelance voor heb mogen werken:
     <img src="/assets/client-logos/funda-client-logo.png" alt="Logo Funda" width="75">
   </p>
 </div>
-
-Als **freelance product owner** en (interaction/ux) designer help ik organisaties bij het opstarten en verbeteren van digitale producten en diensten. De afgelopen jaren heb ik dat als freelancer onder andere gedaan voor de NOS, NPO, NRC, Schiphol en Funda. Zo heb ik de eerste NOS app ontworpen, diverse websites van de Publieke Omroep samengebracht onder NPO.nl en stond ik aan het roer van de vernieuwde Schiphol app.
 
 ## Projecten uitgelicht
 
