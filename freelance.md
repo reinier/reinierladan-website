@@ -13,6 +13,8 @@ og_type: article
 
 Als **freelance product owner** en (interaction/ux) designer help ik organisaties bij het opstarten en verbeteren van digitale producten en diensten. De afgelopen jaren heb ik dat als freelancer onder andere gedaan voor de NOS, NPO, NRC, Schiphol en Funda. Zo heb ik de eerste NOS app ontworpen, diverse websites van de Publieke Omroep samengebracht onder NPO.nl en stond ik aan het roer van de vernieuwde Schiphol app.
 
+Sinds 2016 heb ik me volledig gericht op product management. Ik sta voor je klaar in de rol van product owner, product manager of design manager. Er zijn veel rollen die hierop lijken of veel overeenkomsten ermee hebben. Schroom niet om contact met me hierover op te nemen als je denkt dat de rol die je beschikbaar hebt een match voor me is.
+
 <ul class="social-media-list">
   <li class="linkedin-rl"><a href="https://www.linkedin.com/in/reinierladan" title="LinkedIn Reinier Ladan"><svg class="svg-icon grey"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg>Op LinkedIn vind je een vrij gedetailleerd overzicht van mijn kennis en ervaring</a> en ik sta altijd open voor nieuwe connecties.</li>
 </ul>
@@ -23,6 +25,8 @@ Een greep uit de opdrachtgevers waar ik freelance voor heb mogen werken:
   <p>
     <img src="/assets/client-logos/nos-client-logo.png" alt="Logo NOS" width="75">
     <img src="/assets/client-logos/npo-client-logo.png" alt="Logo NPO" width="75">
+    <img src="/assets/client-logos/schiphol-client-logo.png" alt="Logo Schiphol" width="75">
+    <img src="/assets/client-logos/funda-client-logo.png" alt="Logo Funda" width="75">
     <img src="/assets/client-logos/nrc-client-logo.png" alt="Logo NRC" width="75">
     <img src="/assets/client-logos/taalunie-client-logo.png" alt="Logo Nederlandse Taalunie" width="75">
     <img src="/assets/client-logos/foxsports-client-logo.png" alt="Logo FOX Sports" width="75">
@@ -32,8 +36,6 @@ Een greep uit de opdrachtgevers waar ik freelance voor heb mogen werken:
     <img src="/assets/client-logos/nlziet-client-logo.png" alt="Logo NLZiet" width="75">
     <!-- <img src="/assets/client-logos/sanoma-client-logo.png" alt="Logo Sanoma" width="75"> -->
     <img src="/assets/client-logos/lg-client-logo.png" alt="Logo Liberty GLobal" width="75">
-    <img src="/assets/client-logos/schiphol-client-logo.png" alt="Logo Schiphol" width="75">
-    <img src="/assets/client-logos/funda-client-logo.png" alt="Logo Funda" width="75">
   </p>
 </div>
 
