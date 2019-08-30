@@ -46,6 +46,12 @@ Een greep uit de opdrachtgevers waar ik freelance voor heb mogen werken:
 - [Alle omroepen bij NLZiet](/projecten/nlziet)
 - [Schiphol op eigen benen met de Schiphol App](/projecten/schiphol-app)
 
+## Tijdlijn van werkervaring
+
+Dit is een handig overzicht van mijn complete carrière in de vorm van een tijdlijn.
+
+<a href="/assets/werkervaring-timeline.jpg"><img src="/assets/small-werkervaring-timeline.jpg" alt="Link naar carrière-tijdlijn" width="400" border="1"></a>
+
 ## Contact
 
 Neem contact met mij op voor een vrijblijvend gesprek, dan kunnen we kijken of ik kan bijdragen aan de uitdagingen waar jouw organisatie mee te maken heeft.
