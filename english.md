@@ -43,3 +43,9 @@ My [ikigai](https://en.wikipedia.org/wiki/Ikigai) is creating excellent digital 
     <img src="/assets/client-logos/funda-client-logo.png" alt="Logo Funda" width="75">
   </p>
 </div>
+
+<h2>Timeline of work experience</h2>
+
+<p>I've put together a timeline of my complete work experience, starting in 1999.</p>
+
+<a href="/assets/werkervaring-timeline-en.jpg"><img src="/assets/small-werkervaring-timeline-en.jpg" alt="Link work experience timeline" width="400" border="1"></a>
