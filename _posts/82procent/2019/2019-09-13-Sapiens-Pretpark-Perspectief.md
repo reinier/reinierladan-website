@@ -28,7 +28,7 @@ Verder nam ik deze zomer ook nog twee Appels en Peren op:
 - [169. Sagrada Urza's 18.04 paranoid survive, definieer maar!](https://appelsenperenshow.nl/aflevering/2019/7/17/169-sagrada-urzas-1804-paranoid-survive-definieer-maar)
 - [170. PlayPod Tweakers Topic zonder Queen-achtige Beatles](https://appelsenperenshow.nl/aflevering/2019/9/4/170-playpod-tweakers-topic-zonder-queen-achtige-beatles)
 
-En er is eind deze maand [een fantastisch podcastfestival](https://podcastfestival.nl) waar je alleen al heen wilt voor de keynote van Tim Howard, de senior producer van [Reply All](https://gimletmedia.com/shows/reply-all). Zie je daar op zaterdag 28 september in de Tolhuistuin te Amsterdam!
+En er is eind deze maand [een fantastisch podcastfestival](https://podcastfestival.nl) waar je alleen al heen wilt voor de keynote van Tim Howard, de senior producer van [Reply All](https://gimletmedia.com/shows/reply-all). Zie je daar op zaterdag 28 september in de Tolhuistuin, Amsterdam!
 
 
 ### Oproepjes
