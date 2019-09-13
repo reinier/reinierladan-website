@@ -1,7 +1,7 @@
 ---
 title:  "Sapiens Pretpark Perspectief"
 image: https://reinierladan.nl/assets/82procent.jpg
-description: "De zomervakantie is voorbij! En de 82% dus ook."
+description: "De zomervakantie is voorbij, en dus is de 82% er weer!"
 date: 2019-09-13 11:00 +0200
 ---
 
