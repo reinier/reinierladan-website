@@ -15,7 +15,7 @@ Je zou natuurlijk, zoals bijna iedereen, [het boek Sapiens van Yuval Noah Harari
 
 Want nadat ik één zo’n filmpje had aangeklikt kwam ik in een enorme YouTube vertical terecht met waanzinnige attracties. Zo kwam ik [Fernando Alonso en Felipe Massa tegen in de snelste achtbaan van de wereld](https://www.youtube.com/watch?v=ijuQwnfBBZw), zag ik [de gecombineerde waterattractie en achtbaan door Jurassic World heen](https://www.youtube.com/watch?v=KHv6hKvEzMg) en bekeek ik [de Fatamorgana on steroids van Pirates of the Caribbean](https://www.youtube.com/watch?v=BP4JFCTlZ1U). Hier nog [13 Disney Park Secrets](https://www.youtube.com/watch?v=CKaCvc29gOw).
 
-Ik heb mijn youtubegeschiedenis maar weer even leeggemaakt om het algoritme te resetten want teveel mijn aanbevelingen waren helemaal van slag.
+Ik heb mijn youtubegeschiedenis moeten leegmaken om weer normale aanbevelingen te krijgen…
 
 🦖
 
