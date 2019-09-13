@@ -19,7 +19,7 @@ Ik heb mijn youtubegeschiedenis moeten leegmaken om weer normale aanbevelingen t
 
 🦖
 
-Over Jurassic Park gesproken… het origineel blijft natuurlijk de sterkste film van alle sequels en reboots die er zijn geweest. [Jonathan Burdett legt je uit waarom dat is vanuit cinematografisch perspectief](https://www.youtube.com/watch?v=BKALxKbjOaE). Instant meer respect voor Jurassic Park uit ’93.
+Over Jurassic Park gesproken: het origineel uit 1993 is natuurlijk de sterkste film van alle sequels en reboots die er zijn geweest. [Jonathan Burdett legt je uit waarom dat is vanuit cinematografisch perspectief](https://www.youtube.com/watch?v=BKALxKbjOaE).
 
 🎙
 
