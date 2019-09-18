@@ -49,3 +49,11 @@ My [ikigai](https://en.wikipedia.org/wiki/Ikigai) is creating excellent digital 
 <p>I've put together a timeline of my complete work experience, starting in 1999.</p>
 
 <a href="/assets/werkervaring-timeline-en.jpg"><img src="/assets/small-werkervaring-timeline-en.jpg" alt="Link work experience timeline" width="400" border="1"></a>
+
+<h2>Contact me</h2>
+
+<p>Call me if there is something urgent. If you have less urgent stuff to discuss <strong>I prefer e-mail or whatsapp/imessage</strong>.</p>
+<ul>
+  <li>E-mail: reinier@ladan.email</li>
+  <li>Call, WhatsApp, iMessage, Telegram: +31624872725</li>
+</ul>
