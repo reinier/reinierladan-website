@@ -2,7 +2,7 @@
 title:  "Diepste Tijdreis Story"
 image: https://reinierladan.nl/assets/82procent.jpg
 description: "Reizen door de tijd, reizen naar de krochten van de diepe zee en reizen als ontspanning."
-date: 2019-09-20 10:00 +0200
+date: 2019-09-20 9:20 +0200
 ---
 
 Hi, Reinier hier,
