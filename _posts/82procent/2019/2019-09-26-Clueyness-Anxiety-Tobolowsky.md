@@ -7,6 +7,10 @@ date: 2019-09-26 8:20 +0200
 
 Hi, Reinier hier,
 
+Heads up: volgende week is er even geen nieuwsbrief maar 1 oktober valt hij gewoon weer op je digitale mat.
+
+🤯
+
 Door het lezen van de nieuwe Wait But Why serie (zie tip in [de vorige nieuwsbrief](https://reinierladan.nl/2019/09/20/diepste-tijdreis-story)) kwam ik achter [het begrip ‘Clueyness’](https://waitbutwhy.com/2016/05/clueyness-a-weird-kind-of-sad.html). Het is het gevoel dat je iemand hebt teleurgesteld waarbij jij het waarschijnlijk erger vind dan de ander. Heel herkenbaar! Zo zijn er waarschijnlijk nog meer emoties die ik weleens heb maar waar niet eens een term voor bestaat in onze cultuur.
 
 Emoties kunnen je natuurlijk zo in de weg zitten dat je er ziek van wordt. [Johann Hari](https://twitter.com/johannhari101) kent dit gevoel maar al te goed en hij zet [in deze TED talk (‘This could be why you're depressed and anxious’)](https://www.ted.com/talks/johann_hari_this_could_be_why_you_re_depressed_and_anxious) wel heel goed uiteen waarom een pilletje alleen niet werkt tegen depressies en angststoornissen.
