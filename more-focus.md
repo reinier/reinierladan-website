@@ -13,8 +13,6 @@ If you are interested in this talk for your event or as an in-company presentati
 
 ## Slides from the presentation
 
-_Coming soon_
-
 <script async class="speakerdeck-embed" data-id="5a346c3b4d784b15ae72dd698e89ca8b" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## To read list
