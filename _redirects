@@ -44,3 +44,7 @@ https://emailbeleid.nl/* https://reinierladan.nl/emailbeleid 301!
 https://www.emailbeleid.nl/* https://reinierladan.nl/emailbeleid 301!
 https://e-mailbeleid.nl/* https://reinierladan.nl/emailbeleid 301!
 https://www.e-mailbeleid.nl/* https://reinierladan.nl/emailbeleid 301!
+
+## appelsenperenshow
+https://appelsenperenshow.nl/ https://www.appelsenperenshow.nl 301!
+https://appelsenperenshow.nl/* https://www.appelsenperenshow.nl/:splat 301!
