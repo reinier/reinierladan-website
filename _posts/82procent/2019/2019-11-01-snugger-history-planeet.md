@@ -7,7 +7,7 @@ date: 2019-11-01 9:00 +0200
 
 Hi, Reinier hier
 
-Toen ik vorig jaar rond deze tijd met Rick Pastoor seizoen 1 van de podcast [Hoe Krijg Je Het Voor Elkaar?](https://hoekrijgjehetvoorelkaar.nl) opnam hadden we genoeg te bespreken. En als je genoeg te bespreken hebt dan laat je het daar niet bij anno 2019. Nee, dan begin je een podcast. Vandaar dat we [Snuggere Zaken](https://www.snuggerezaken.nl) zijn gestart en vanaf deze week kun je daar naar luisteren!
+Toen ik vorig jaar rond deze tijd met Rick Pastoor seizoen 1 van de podcast [Hoe Krijg Je Het Voor Elkaar?](https://hoekrijgjehetvoorelkaar.nl) opnam hadden we genoeg te bespreken. En als je genoeg te bespreken hebt dan laat je het daar niet bij anno 2019. Nee, dan begin je nóg een podcast. Vandaar dat we [Snuggere Zaken](https://www.snuggerezaken.nl) zijn gestart en vanaf deze week kun je daar naar luisteren!
 
 [Aflevering 1 van Snuggere Zaken gaat over het minder gebruiken van je telefoon](https://www.snuggerezaken.nl/1) en welke struggles we daar bij hebben en wat het oplevert. De aflevering is via de website te beluisteren en natuurlijk ook in je favoriete podcast-app te vinden.
 
