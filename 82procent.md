@@ -5,10 +5,7 @@
 layout: page
 title: 82% Nieuwsbrief
 permalink: /82procent-nieuwsbrief/
-
 ---
-
-# 82% Nieuwsbrief
 
 Wekelijks schrijf ik de 82% nieuwsbrief over technologie, design, cultuur, geschiedenis, media, films, muziek, van alles dus eigenlijk. Er staan ook dingen in die op [mijn weblog](/blog) zijn verschenen en ik hou je op de hoogte van persoonlijke projecten. Abonneren is gratis. Sluit je aan bij de meer dan 1.000 abonnees.
 
