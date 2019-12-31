@@ -42,11 +42,13 @@ Als **freelance product owner** en (interaction/ux) designer help ik organisatie
 
 ## Podcasts
 
-In 2011 startte ik samen met Wietse Hage [de Appels en Peren Show](https://appelsenperenshow.nl), een podcast over technologie, media en cultuur. Het is inmiddels een van de meest succesvolle technologiepodcasts van Nederland met zo’n 20.000 vaste luisteraars en een levendige community. In de podcast [Hoe Krijg Je Het Voor Elkaar?](https://hoekrijgjehetvoorelkaar.nl) zoek ik uit hoe mensen slim en efficiënt kunnen werken.
+In 2011 startte ik samen met Wietse Hage [de Appels en Peren Show](https://appelsenperenshow.nl), een podcast over technologie, media en cultuur. Het is inmiddels een van de meest succesvolle technologiepodcasts van Nederland met zo’n 20.000 vaste luisteraars en een levendige community. In de podcast [Hoe Krijg Je Het Voor Elkaar?](https://hoekrijgjehetvoorelkaar.nl) zoek ik uit hoe mensen slim en efficiënt kunnen werken en over dit onderwerp heb ik het samen met Rick Pastoor ook in [de wekelijkse podcast Snuggere Zaken](https://www.snuggerezaken.nl).
 
-## Inspirerende spreker
+## Blog & nieuwsbrief
 
-Je kan me [inhuren als spreker](/spreker), dan vertel ik bijvoorbeeld [over slim en efficiënt werken](/2019/06/06/medicijn-tegen-tijdsverspilling) of over het maken van een podcast met beperkte middelen. En voor wie uithoeken van het internet wil ontdekken en op de hoogte wil blijven van de meest actuele inzichten over productiviteit is er [de wekelijkse 82% nieuwsbrief](/82procent-nieuwsbrief/).
+Je kunt mijn gedachten bij productiviteit, de samenleving en technologie [lezen op mijn blog](/blog/). En voor wie uithoeken van het internet wil ontdekken en op de hoogte wil blijven van de meest actuele inzichten over productiviteit is er [de wekelijkse 82% nieuwsbrief](/82procent-nieuwsbrief/).
+
+<!-- Je kan me [inhuren als spreker](/spreker), dan vertel ik bijvoorbeeld [over slim en efficiënt werken](/2019/06/06/medicijn-tegen-tijdsverspilling) of over het maken van een podcast met beperkte middelen. En voor wie uithoeken van het internet wil ontdekken en op de hoogte wil blijven van de meest actuele inzichten over productiviteit is er [de wekelijkse 82% nieuwsbrief](/82procent-nieuwsbrief/). -->
 
 ## Reinier Ladan privé
 
