@@ -33,7 +33,7 @@ Sites en diensten waar je me nog meer kunt vinden.
 ## Dingen die me inspireren
 
 - [A day at the park](http://kiriakakis.net/comics/mused/a-day-at-the-park)
-- [Why I create for the web](https://neave.blog/why-i-create-for-the-web-23b16e963d48)
+- [Why I create for the web](https://web.archive.org/web/20160818235441/http://blog.neave.com/post/64669185529/why-i-create-for-the-web)
 - [Screw motivation, what you need is discipline.](http://www.wisdomination.com/screw-motivation-what-you-need-is-discipline/)
 - [Goals are for Losers. Passion is Overrated.](https://www.slideshare.net/Scottadams925/goals-are-for-losers-passion-is-overrated)
 - [In Praise of Extreme Moderation](https://hbr.org/2018/06/in-praise-of-extreme-moderation)
