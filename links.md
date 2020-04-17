@@ -13,8 +13,14 @@ Sites en diensten waar je me nog meer kunt vinden.
 ## Podcasts
 
 - [Podcast: De Appels en Peren Show](http://appelsenperenshow.nl)
+- [Podcast: Snuggere Zaken](http://snuggerezaken.nl)
 - [Podcast: Hoe Krijg Je Het Voor Elkaar?](https://hoekrijgjehetvoorelkaar.nl)
 - [Patreon: Hoe Krijg Je Het Voor Elkaar?](http://patreon.com/reinier)
+
+## Nieuwsbrief en blog
+
+- [82% nieuwsbrief](https://82procent.nl)
+- [Minder Maar Beter](https://mindermaarbeter.nl)
 
 ## Lezen en schrijven
 
