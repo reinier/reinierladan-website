@@ -46,7 +46,7 @@ In 2011 startte ik samen met Wietse Hage [de Appels en Peren Show](https://appel
 
 ## Blog, nieuwsbrief en rust in je hoofd
 
-Je kunt mijn gedachten bij productiviteit, slim werken en rust houden in je hoofd [lezen op mijn platform Minder Maar Beter](https://mindermaarbeter.nl). Ik vertel je daar ook graag hoe ik mijn Mac en iPad doorvoor inzet.
+Je kunt mijn gedachten bij productiviteit, slim werken en rust houden in je hoofd [lezen op mijn platform Minder Maar Beter](https://mindermaarbeter.nl). Ik vertel je daar ook graag hoe ik mijn Mac en iPad hiervoor gebruik.
 
 Voor wie uithoeken van het internet wil ontdekken over media, technologie, de samenleving en kookvideo's is er [de wekelijkse 82% nieuwsbrief](https://82procent.nl).
 
