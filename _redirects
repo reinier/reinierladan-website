@@ -43,3 +43,7 @@ https://www.e-mailbeleid.nl/* https://reinierladan.nl/emailbeleid 301!
 ## appelsenperenshow
 https://appelsenperenshow.nl/ https://www.appelsenperenshow.nl 301!
 https://appelsenperenshow.nl/* https://www.appelsenperenshow.nl/:splat 301!
+
+## snuggerezaken
+https://snuggerezaken.nl/ https://www.snuggerezaken.nl 301!
+https://snuggerezaken.nl/* https://www.snuggerezaken.nl/:splat 301!
