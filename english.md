@@ -26,7 +26,7 @@ If you can read Dutch, there is more to discover on <a href="/">the Dutch sectio
 
 👨‍💻 With my experience in both design and software engineering, I can help the product team explore viable solutions. The thing that motivates me the most is diving into the nitty-gritty details of problems and objectives and figure out why they exist and what has to be solved first to get the most value for the business and the customer/user.
 
-💫 I had the pleasure to work with a lot of great companies and create pretty awesome products at Schiphol, Funda, Liberty Global, NOS, NPO, FOX Sports, and many others.
+💫 I had the pleasure to work with a lot of great companies and create pretty awesome products at Schiphol, Liberty Global, Backbase, FOX Sports, Funda, NOS, NPO, and many others.
 
 <div class="client-logos">
   <p>
