@@ -50,7 +50,7 @@ Je kunt mijn gedachten bij productiviteit, slim werken en rust houden in je hoof
 
 Voor wie uithoeken van het internet wil ontdekken over media, technologie, de samenleving en kookvideo's is er [de wekelijkse 82% nieuwsbrief](https://82procent.nl).
 
-Je kan me [inhuren als spreker](/spreker), dan vertel ik bijvoorbeeld [over slim en efficiënt werken](/2019/06/06/medicijn-tegen-tijdsverspilling) of over het jezelf een schop onder je kont geven [door pomodoro's](https://mindermaarbeter.nl/productiviteit/pomodoros-zorgen-voor-een-schop-onder-je-kont/) en [een personal bootloader](https://mindermaarbeter.nl/productiviteit/breng-jezelf-op-gang-met-een-personal-bootloader/).
+<!-- Je kan me [inhuren als spreker](/spreker), dan vertel ik bijvoorbeeld [over slim en efficiënt werken](/2019/06/06/medicijn-tegen-tijdsverspilling) of over het jezelf een schop onder je kont geven [door pomodoro's](https://mindermaarbeter.nl/productiviteit/pomodoros-zorgen-voor-een-schop-onder-je-kont/) en [een personal bootloader](https://mindermaarbeter.nl/productiviteit/breng-jezelf-op-gang-met-een-personal-bootloader/). -->
 
 ## Reinier Ladan privé
 
